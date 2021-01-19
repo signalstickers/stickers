@@ -1,0 +1,24 @@
+name: CI
+on:
+  - push
+  - pull_request
+jobs:
+  CI:
+    name: Build & Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch Repository
+        uses: actions/checkout@v2
+        with:
+          # Ensures we fetch all tags.
+          fetch-depth: 0
+      - name: Set Up Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14
+      - name: Install Dependencies
+        run: npm ci --ignore-scripts
+      - name: Build Project
+        run: npx nps build
+      - name: Run Tests
+        run: npx nps test

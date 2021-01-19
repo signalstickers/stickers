@@ -1,0 +1,22 @@
+{
+  "name": "PROJECT_NAME",
+  "version": "0.1.0",
+  "license": "WTFPL",
+  "description": "PROJECT_DESCRIPTION",
+  "author": "AUTHOR_NAME",
+  "repository": {
+    "type": "git",
+    "url": "REPOSITORY_URL"
+  },
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "scripts": {
+    "prepare": "nps prepare",
+    "help": "nps --scripts"
+  },
+  "devDependencies": {
+    "@darkobits/ts": "^0.2.2"
+  }
+}
