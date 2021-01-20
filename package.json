@@ -1,22 +1,51 @@
 {
-  "name": "PROJECT_NAME",
-  "version": "0.1.0",
-  "license": "WTFPL",
-  "description": "PROJECT_DESCRIPTION",
-  "author": "AUTHOR_NAME",
+  "name": "@signalstickers/stickers",
+  "version": "0.0.0",
+  "private": true,
+  "license": "CC-BY-NC-4.0",
+  "description": "Compile sticker pack metadata and manifests to sticker pack partials. ",
+  "contributors": [{
+    "name": "Romain Ricard",
+    "url": "https://romainricard.fr/"
+  }, {
+    "name": "Joshua (darkobits)",
+    "url": "https://joshua.dev"
+  }],
+  "homepage": "https://signalstickers.com/",
   "repository": {
     "type": "git",
-    "url": "REPOSITORY_URL"
+    "url": "git+https://github.com/signalstickers/stickers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/signalstickers/stickers/issues"
   },
   "files": [
     "dist"
   ],
-  "main": "dist/index.js",
+  "bin": {
+    "compile-stickers": "dist/bin/cli.js"
+  },
   "scripts": {
-    "prepare": "nps prepare",
-    "help": "nps --scripts"
+    "prepare": "nps prepare"
   },
   "devDependencies": {
-    "@darkobits/ts": "^0.2.2"
+    "@darkobits/log": "^2.0.0-beta.15",
+    "@darkobits/saffron": "^0.1.16",
+    "@darkobits/ts": "0.3.0-beta.4",
+    "@signalstickers/stickers-client": "^1.0.2",
+    "@types/fs-extra": "^9.0.6",
+    "@types/js-yaml": "^4.0.0",
+    "@types/progress": "^2.0.3",
+    "@types/ramda": "^0.27.34",
+    "ajv": "^7.0.3",
+    "ajv-errors": "^2.0.0",
+    "better-ajv-errors": "^0.7.0",
+    "fs-extra": "^9.1.0",
+    "jest-expect-message": "^1.0.2",
+    "js-yaml": "^4.0.0",
+    "p-queue": "^6.6.2",
+    "p-retry": "^4.2.0",
+    "progress": "^2.0.3",
+    "ramda": "^0.27.1"
   }
 }

@@ -91,3 +91,12 @@ typings/
 
 # Build artifacts
 /dist
+
+# Cached sticker pack partials.
+/.sticker-partials-cache
+
+# Compiled sticker pack partials.
+/stickers.json
+
+# Partials output directory.
+/partials

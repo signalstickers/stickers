@@ -1,1 +1,5 @@
-module.exports = require('@darkobits/ts').nps();
+module.exports = require('@darkobits/ts').nps({
+  scripts: {
+    compile: 'node'
+  }
+});

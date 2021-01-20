@@ -1,24 +1,56 @@
-name: CI
+name: CI/CD
 on:
   - push
   - pull_request
+env:
+  FORCE_COLOR: 3
 jobs:
-  CI:
-    name: Build & Test
+  build-test:
+    name: Compile Sticker Pack Partials
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch Repository
+      - name: Cancel Previous Runs
+        uses: styfle/cancel-workflow-action@0.6.0
+        with:
+          access_token: ${{ github.token }}
+      - name: Clone Repository
         uses: actions/checkout@v2
         with:
-          # Ensures we fetch all tags.
           fetch-depth: 0
       - name: Set Up Node
         uses: actions/setup-node@v1
         with:
           node-version: 14
+      - name: Use Dependencies Cache
+        id: dependencies-cache
+        uses: actions/cache@v1
+        with:
+          key: dependencies-${{ hashFiles('package-lock.json') }}
+          path: node_modules
+      - name: Use Sticker Partials Cache
+        id: sticker-partials-cache
+        uses: actions/cache@v1
+        with:
+          key: sticker-partials-${{ hashFiles('src/stickers.yml') }}
+          path: .sticker-partials-cache
+          restore-keys: |
+            sticker-partials-
       - name: Install Dependencies
-        run: npm ci --ignore-scripts
-      - name: Build Project
-        run: npx nps build
-      - name: Run Tests
-        run: npx nps test
+        if: steps.dependencies-cache.outputs.cache-hit != 'true'
+        run: npm ci
+      - name: Prepare Project
+        run: npx nps prepare
+      - name: Compile Sticker Pack Partials
+        run: npx compile-stickers --input-file src/stickers.yml --output-file partials/partials.json
+      - name: Configure SSH
+        uses: webfactory/ssh-agent@v0.4.1
+        with:
+          ssh-private-key: ${{ secrets.GH_PAGES_DEPLOY_KEY }}
+      - name: Deploy Compiled JSON to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          SSH: true
+          CLEAN: true
+          SINGLE_COMMIT: true
+          BRANCH: gh-pages
+          FOLDER: partials
