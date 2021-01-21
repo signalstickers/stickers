@@ -9,6 +9,13 @@
 # file in this repository for more information.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+45b38fa0b02ea6b1147950283a8c0541:
+  key: d5ac3b1375a83d73641cfe7262cc1676a09088f9ad30f6f9280983b1a4d5b867
+  source: 'https://store.line.me/stickershop/product/8542'
+  tags:
+    - Pikachu
+    - Pokemon
+  animated: true
 e35590a61134c47a344823aa8b7acf03:
   key: f4a981ab4de30d3a527f39751348d592568109c1436c2ef6d795bbdf308989d2
   source: 'https://store.line.me/stickershop/product/5788726/zh-Hant'
