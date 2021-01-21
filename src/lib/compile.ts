@@ -148,13 +148,25 @@ export default async function compileStickerPackPartials(options: Required<Fetch
   // ----- [5] Write Output File -----------------------------------------------
 
   // Sort partials in the output according to their position in the input file.
-  const sortedStickerPackPartials = R.reduce((acc, cur) => R.insert(
+  const sortedStickerPackPartials = R.reduce((acc, cur) => {
+    const curPackId = R.path<string>(['meta', 'id'], cur);
+
+    if (!curPackId) {
+      log.error('Sticker pack partial does not contain an ID at path meta.id:');
+      log.error(cur);
+      throw new Error('Sticker pack partial does not contain an ID at path meta.id.');
+    }
+
     // Compute the new index for this partial based on its position in the
     // input file.
-    R.indexOf(R.path(['meta', 'id'], cur), keys),
-    cur,
-    acc
-  ), [] as Array<StickerPackPartial>, stickerPackPartials);
+    const newIndex = R.indexOf(curPackId, keys);
+
+    if (newIndex === -1) {
+      log.warn(`Pack ID ${curPackId} did not exist in keys of input file.`);
+    }
+
+    return R.insert(newIndex, cur, acc);
+  }, [] as Array<StickerPackPartial>, stickerPackPartials);
 
   const absOutputFilePath = path.resolve(options.outputFile);
   log.info(`Writing output file to ${log.chalk.green(absOutputFilePath)}`);
