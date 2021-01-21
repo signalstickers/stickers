@@ -67,8 +67,8 @@ export default async function compileStickerPackPartials(options: Required<Fetch
   log.info(`Input file: ${log.chalk.green(absInputFilePath)}.`);
 
   const stickerPackMetadata = yaml.load(rawInputFileContents) as { [key: string]: StickerPackMetadata };
-  const numEntries = Object.keys(stickerPackMetadata).length;
-  log.info(`Input file contains ${log.chalk.yellow(numEntries)} entries.`);
+  const keys = Object.keys(stickerPackMetadata);
+  log.info(`Input file contains ${log.chalk.yellow(keys.length)} entries.`);
 
 
   // ----- [3] Load Cached Sticker Pack Partials -------------------------------
@@ -96,10 +96,7 @@ export default async function compileStickerPackPartials(options: Required<Fetch
     }
   }, R.toPairs(stickerPackMetadata)));
 
-  // const cacheMissRate = `${Math.round(numCacheMisses / numEntries * 100)}%`;
-  // log.info(`Cache misses: ${numCacheMisses} (${cacheMissRate}).`);
-
-  const cacheHitRate = `${Math.round(numCacheHits / numEntries * 100)}%`;
+  const cacheHitRate = `${Math.round(numCacheHits / keys.length * 100)}%`;
   log.info(`Cache contains ${log.chalk.yellow(numCacheHits)} entries. (${cacheHitRate} cache hit rate)`);
 
 
@@ -150,10 +147,22 @@ export default async function compileStickerPackPartials(options: Required<Fetch
     bar.tick();
   }, { retries: 2 }), [...requests.entries()]));
 
+
+  // ----- [5] Write Output File -----------------------------------------------
+
+  // Sort partials in the output file in reverse order than in the input file.
+  const sortedStickerPackPartials = R.reverse(R.reduce((acc, cur) => R.insert(
+    // Compute the new index for this partial based on its position in the
+    // input file.
+    R.indexOf(R.path(['meta', 'id'], cur), keys),
+    cur,
+    acc
+  ), [] as Array<StickerPackPartial>, stickerPackPartials));
+
   const absOutputFilePath = path.resolve(options.outputFile);
   log.info(`Writing output file to ${log.chalk.green(absOutputFilePath)}`);
   await fs.ensureDir(path.dirname(absOutputFilePath));
-  await fs.writeJSON(absOutputFilePath, stickerPackPartials, { spaces: 2 });
+  await fs.writeJSON(absOutputFilePath, sortedStickerPackPartials, { spaces: 2 });
 
   // Compute and log output file size here.
   log.info(`Done. ${log.chalk.dim(`(${runTime})`)}`);
