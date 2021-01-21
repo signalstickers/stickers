@@ -27997,3 +27997,9 @@ ae1d343accdec586fe19954a6be7aee9:
   key: ffea9831b6af7617e4ab1b3868ce6f26f5c7c8ab3f05fb8d68b436f9253232ab
   tags:
     - cat
+e35590a61134c47a344823aa8b7acf03:
+  key: f4a981ab4de30d3a527f39751348d592568109c1436c2ef6d795bbdf308989d2
+  source: 'https://store.line.me/stickershop/product/5788726/zh-Hant'
+  tags:
+    - panda
+  animated: true
