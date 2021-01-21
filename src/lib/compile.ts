@@ -139,10 +139,7 @@ export default async function compileStickerPackPartials(options: Required<Fetch
     // directory.
     await fs.writeJson(path.resolve(options.cacheDir, `${id}.json`), stickerPackPartial);
 
-    // Order partials in the reverse order of stickers.yml, so the most
-    // recently added pack is first (assuming stickers.yml is only ever
-    // appended to when new packs are added).
-    stickerPackPartials.unshift(stickerPackPartial);
+    stickerPackPartials.push(stickerPackPartial);
 
     bar.tick();
   }, { retries: 2 }), [...requests.entries()]));
@@ -150,14 +147,14 @@ export default async function compileStickerPackPartials(options: Required<Fetch
 
   // ----- [5] Write Output File -----------------------------------------------
 
-  // Sort partials in the output file in reverse order than in the input file.
-  const sortedStickerPackPartials = R.reverse(R.reduce((acc, cur) => R.insert(
+  // Sort partials in the output according to their position in the input file.
+  const sortedStickerPackPartials = R.reduce((acc, cur) => R.insert(
     // Compute the new index for this partial based on its position in the
     // input file.
     R.indexOf(R.path(['meta', 'id'], cur), keys),
     cur,
     acc
-  ), [] as Array<StickerPackPartial>, stickerPackPartials));
+  ), [] as Array<StickerPackPartial>, stickerPackPartials);
 
   const absOutputFilePath = path.resolve(options.outputFile);
   log.info(`Writing output file to ${log.chalk.green(absOutputFilePath)}`);

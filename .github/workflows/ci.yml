@@ -5,7 +5,7 @@ on:
 env:
   FORCE_COLOR: 3
 jobs:
-  build-test:
+  build:
     name: Compile Sticker Pack Partials
     runs-on: ubuntu-latest
     steps:
@@ -43,10 +43,12 @@ jobs:
       - name: Compile Sticker Pack Partials
         run: npx compile-stickers --input-file src/stickers.yml --output-file partials/partials.json
       - name: Configure SSH
+        if: github.ref == 'refs/heads/master'
         uses: webfactory/ssh-agent@v0.4.1
         with:
           ssh-private-key: ${{ secrets.GH_PAGES_DEPLOY_KEY }}
       - name: Deploy Compiled JSON to GitHub Pages
+        if: github.ref == 'refs/heads/master'
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
           SSH: true
