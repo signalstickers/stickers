@@ -2,7 +2,7 @@
   "name": "@signalstickers/stickers",
   "version": "0.0.0",
   "private": true,
-  "license": "CC-BY-NC-4.0",
+  "license": "CC-BY-NC-SA-4.0",
   "description": "Compile sticker pack metadata and manifests to sticker pack partials. ",
   "contributors": [{
     "name": "Romain Ricard",
