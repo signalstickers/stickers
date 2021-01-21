@@ -1,15 +1,14 @@
 ---
 # This file enumerates all sticker packs in the Signal Stickers directory.
 #
-# When adding a new pack to this file, please add it to the top of the file just
-# above the first entry.
-#
 # Then, select "Create a new branch for this commit and start a pull request"
 # and click "Commit changes" to open a Pull Request with your proposed changes.
 #
 # Disclaimer: The data in this file is licensed under the Creative Commons
 # Attribution Non-Commercial Share-Alike 4.0 license. Please see the LICENSE
 # file in this repository for more information.
+#
+# ------------ ⬇︎ PLEASE ADD NEW ENTRIES TO THE TOP OF THIS FILE ⬇︎ -------------
 
 9f294f1efd805d5a4e41214d4c3aa308:
   key: 3a73621ff8e27ad062aa9c923f416d905d334e4e86d4af8f34cc48e334e09a3b
