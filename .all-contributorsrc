@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "darkobits",
+      "name": "Joshua",
+      "avatar_url": "https://avatars.githubusercontent.com/u/441546?v=4",
+      "profile": "https://joshua.dev",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "stickers",
+  "projectOwner": "signalstickers",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
