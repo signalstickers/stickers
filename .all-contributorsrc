@@ -87,6 +87,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Lockszmith",
+      "name": "Gal Szkolnik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/905716?v=4",
+      "profile": "http://code.lockszmith.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 12,
