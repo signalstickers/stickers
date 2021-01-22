@@ -4,13 +4,16 @@
   "private": true,
   "license": "CC-BY-NC-SA-4.0",
   "description": "Compile sticker pack metadata and manifests to sticker pack partials. ",
-  "contributors": [{
-    "name": "Romain Ricard",
-    "url": "https://romainricard.fr/"
-  }, {
-    "name": "Joshua (darkobits)",
-    "url": "https://joshua.dev"
-  }],
+  "contributors": [
+    {
+      "name": "Romain Ricard",
+      "url": "https://romainricard.fr/"
+    },
+    {
+      "name": "Joshua (darkobits)",
+      "url": "https://joshua.dev"
+    }
+  ],
   "homepage": "https://signalstickers.com/",
   "repository": {
     "type": "git",
@@ -31,7 +34,7 @@
   "devDependencies": {
     "@darkobits/log": "^2.0.0-beta.15",
     "@darkobits/saffron": "^0.1.16",
-    "@darkobits/ts": "0.3.0-beta.4",
+    "@darkobits/ts": "0.3.0-beta.7",
     "@signalstickers/stickers-client": "^1.0.2",
     "@types/fs-extra": "^9.0.6",
     "@types/js-yaml": "^4.0.0",
