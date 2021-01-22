@@ -2,21 +2,22 @@ import path from 'path';
 
 
 import { getStickerPackManifest } from '@signalstickers/stickers-client';
+import bytes from 'bytes';
 import fs from 'fs-extra';
+import gzipSize from 'gzip-size';
+import IS_CI from 'is-ci';
 import yaml from 'js-yaml';
 import pQueue from 'p-queue';
 import pRetry from 'p-retry';
 import ProgressBar from 'progress';
 import * as R from 'ramda';
 
-import { StickerPackPartial, StickerPackMetadata, FetchStickerDataOptions } from 'etc/types';
+import {
+  StickerPackPartial,
+  StickerPackMetadata,
+  FetchStickerDataOptions
+} from 'etc/types';
 import log from 'lib/log';
-
-
-/**
- * Limits concurrency of requests made to the Signal API to avoid throttling.
- */
-const requestQueue = new pQueue({ concurrency: 6 });
 
 
 /**
@@ -31,17 +32,15 @@ export default async function compileStickerPackPartials(options: Required<Fetch
   const runTime = log.createTimer();
 
   /**
+   * Limits concurrency of requests made to the Signal API to avoid throttling.
+   */
+  const asyncQueue = new pQueue({ concurrency: 6 });
+
+  /**
    * Collection that will represent the final array of StickerPackPartial
    * objects.
    */
   const stickerPackPartials: Array<StickerPackPartial> = [];
-
-  /**
-   * Stores the IDs and StickerPackMetadata for each sticker pack that we didn't
-   * have a cached StickerPackPartial for. This will be used as the source of
-   * truth for each query we will make to Signal.
-   */
-  const requests = new Map<string, StickerPackMetadata>();
 
   /**
    * Tracks the number of cache hits during the build process.
@@ -51,8 +50,9 @@ export default async function compileStickerPackPartials(options: Required<Fetch
 
   // ----- [1] Determine Cache Location & Create Directory ---------------------
 
-  // const cacheDirectory = options.cacheDir;
   await fs.ensureDir(options.cacheDir);
+  const numCacheEntries = (await fs.readdir(options.cacheDir)).length;
+
   log.info(`Cache directory: ${log.chalk.green(path.resolve(options.cacheDir))}`);
 
 
@@ -63,71 +63,68 @@ export default async function compileStickerPackPartials(options: Required<Fetch
   }
 
   const absInputFilePath = path.resolve(options.inputFile);
-  const rawInputFileContents = await fs.readFile(absInputFilePath, { encoding: 'utf8' });
+  const stickerPackMetadata = yaml.load(await fs.readFile(absInputFilePath, { encoding: 'utf8' })) as { [key: string]: StickerPackMetadata };
+  const allStickerPackIds = R.keys(stickerPackMetadata);
+
   log.info(`Input file: ${log.chalk.green(absInputFilePath)}.`);
 
-  const stickerPackMetadata = yaml.load(rawInputFileContents) as { [key: string]: StickerPackMetadata };
-  const keys = Object.keys(stickerPackMetadata);
-  log.info(`Input file contains ${log.chalk.yellow(keys.length)} entries.`);
 
+  // ----- [3] Process Metadata ------------------------------------------------
 
-  // ----- [3] Load Cached Sticker Pack Partials -------------------------------
+  const estimatedRequestCount = allStickerPackIds.length - numCacheEntries;
 
-  /**
-   * Map over each id -> StickerPackMetadata entry from the input file and
-   * determine if we have a cached StickerPackPartial for it.
-   */
-  await Promise.all(R.map(async ([id, meta]) => {
-    const candidateSickerPackPartialPath = path.resolve(options.cacheDir, `${id}.json`);
+  log.info(`Input file contains ${log.chalk.yellow(allStickerPackIds.length)} entries.`);
+  log.info(`Cache directory contains: ${log.chalk.yellow(numCacheEntries)} entries.`);
 
-    if (await fs.pathExists(candidateSickerPackPartialPath)) {
-      // If we have a cached StickerPackPartial, load it and add it to the
-      // results array. In this case, we don't need the metadata object loaded
-      // from the input file because it will already be present in the cached
-      // StickerPackPartial.
-      const stickerPackPartial = await fs.readJson(candidateSickerPackPartialPath);
-      stickerPackPartials.push(stickerPackPartial);
-      numCacheHits++;
-    } else {
-      // If we do not have a cached StickerPackPartial, add the sticker pack's
-      // ID and metadata to our query
-      // Otherwise, add the current ID and metadata to our 'cache misses' array.
-      requests.set(id, meta);
-    }
-  }, R.toPairs(stickerPackMetadata)));
-
-  const cacheHitRate = `${Math.round(numCacheHits / keys.length * 100)}%`;
-  log.info(`Cache contains ${log.chalk.yellow(numCacheHits)} entries. (${cacheHitRate} cache hit rate)`);
-
-
-  // ----- [4] Fetch Manifests From Signal -------------------------------------
-
-  if (requests.size > 0) {
-    log.info(`Fetching manifests for ${log.chalk.yellow(requests.size)} sticker packs...`);
+  if (estimatedRequestCount > 0) {
+    log.info(`Fetching ${log.chalk.yellow(estimatedRequestCount)} manifests from Signal...`);
   }
 
-  const bar = new ProgressBar('[:bar] :current/:total ETA: :eta sec ', {
+  const bar = !IS_CI ? new ProgressBar('[:bar] :current/:total ETA: :eta sec ', {
     width: 92,
     head: '>',
-    total: requests.size
-  });
+    total: estimatedRequestCount
+  }) : undefined;
 
-  await requestQueue.addAll(R.map(([id, meta]) => async () => pRetry(async () => {
-    log.silly(`Fetching manifest for sticker pack ${log.chalk.green(id)}.`);
 
-    // Fetch the manifest for the current sticker pack from Signal using its
-    // ID and key.
-    const manifest = await getStickerPackManifest(id, meta.key);
+  /**
+   * For each StickerPackMetadata entry:
+   *
+   * 1. Determine if we have a cached manifest (the data we need from Signal) on
+   *    disk for the pack.
+   * 2. If not, fetch the manifest data from Signal and cache it to disk, then:
+   * 2. Use the cached manifest and metadata to create a StickerPackPartial and
+   *    add it to our results array.
+   */
+  await asyncQueue.addAll(R.map(([id, meta]) => async () => pRetry(async () => {
+    let stickerPackManifest: StickerPackPartial['manifest'];
+
+    const candidateSickerPackManifestPath = path.resolve(options.cacheDir, `${id}.json`);
+
+    if (await fs.pathExists(candidateSickerPackManifestPath)) {
+      stickerPackManifest = await fs.readJson(candidateSickerPackManifestPath);
+      numCacheHits++;
+    } else {
+      log.silly(`Fetching manifest for sticker pack ${log.chalk.green(id)}.`);
+
+      // Fetch the manifest for the current sticker pack from Signal using its
+      // ID and key.
+      stickerPackManifest = R.pick([
+        'title',
+        'author',
+        'cover'
+      ], await getStickerPackManifest(id, meta.key));
+
+      await fs.writeJson(candidateSickerPackManifestPath, stickerPackManifest);
+
+      bar?.tick();
+    }
 
     // Construct a StickerPackPartial by plucking the title, author, and cover
     // fields from its manifest, then embedding its ID and key into its metadata
     // along with any other metadata fields from the input file.
     const stickerPackPartial: StickerPackPartial = {
-      manifest: R.pick([
-        'title',
-        'author',
-        'cover'
-      ], manifest),
+      manifest: stickerPackManifest,
       meta: {
         id,
         key: meta.key,
@@ -135,44 +132,21 @@ export default async function compileStickerPackPartials(options: Required<Fetch
       }
     };
 
-    // Write the StickerPackPartial as an individual JSON file to our cache
-    // directory.
-    await fs.writeJson(path.resolve(options.cacheDir, `${id}.json`), stickerPackPartial);
-
     stickerPackPartials.push(stickerPackPartial);
-
-    bar.tick();
-  }, { retries: 2 }), [...requests.entries()]));
+  }, { retries: 2 }), R.toPairs(stickerPackMetadata)));
 
 
-  // ----- [5] Write Output File -----------------------------------------------
-
-  // Sort partials in the output according to their position in the input file.
-  const sortedStickerPackPartials = R.reduce((acc, cur) => {
-    const curPackId = R.path<string>(['meta', 'id'], cur);
-
-    if (!curPackId) {
-      log.error('Sticker pack partial does not contain an ID at path meta.id:');
-      log.error(cur);
-      throw new Error('Sticker pack partial does not contain an ID at path meta.id.');
-    }
-
-    // Compute the new index for this partial based on its position in the
-    // input file.
-    const newIndex = R.indexOf(curPackId, keys);
-
-    if (newIndex === -1) {
-      log.warn(`Pack ID ${curPackId} did not exist in keys of input file.`);
-    }
-
-    return R.insert(newIndex, cur, acc);
-  }, [] as Array<StickerPackPartial>, stickerPackPartials);
+  // ----- [4] Write Output File -----------------------------------------------
 
   const absOutputFilePath = path.resolve(options.outputFile);
   log.info(`Writing output file to ${log.chalk.green(absOutputFilePath)}`);
-  await fs.ensureDir(path.dirname(absOutputFilePath));
-  await fs.writeJSON(absOutputFilePath, sortedStickerPackPartials, { spaces: 2 });
 
-  // Compute and log output file size here.
-  log.info(`Done. ${log.chalk.dim(`(${runTime})`)}`);
+  await fs.ensureDir(path.dirname(absOutputFilePath));
+  await fs.writeJSON(absOutputFilePath, stickerPackPartials, { spaces: 2 });
+  const gzippedSize = bytes(await gzipSize.file(absOutputFilePath));
+  const cacheHitRate = `${Math.round(numCacheHits / allStickerPackIds.length * 100)}%`;
+
+  log.info(log.prefix('stats'), `Done in ${log.chalk.cyan(runTime)}.`);
+  log.info(log.prefix('stats'), `Cache hit rate: ${log.chalk.yellow(cacheHitRate)}`);
+  log.info(log.prefix('stats'), `Output file size (gzipped): ${log.chalk.yellow(gzippedSize)}`);
 }
