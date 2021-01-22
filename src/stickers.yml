@@ -9,6 +9,21 @@
 # file in this repository for more information.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+45b38fa0b02ea6b1147950283a8c0541:
+  key: d5ac3b1375a83d73641cfe7262cc1676a09088f9ad30f6f9280983b1a4d5b867
+  source: 'https://store.line.me/stickershop/product/8542'
+  tags:
+    - Pikachu
+    - Pokemon
+  animated: true
+26a3ab21c35d3d2127e8e3645fbac83e:
+  key: 1bcf1d63f3167856aa0bb3ac12118d2775b856253fed899deedf346fc88b70d5
+  source: https://tlgrm.eu/stickers/EvilMinds
+  tags:
+    - Evil Minds
+    - meme
+    - memes
+    - Telegram
 a4fe92d48580de629efbe625687a7825:
   key: 667249ea007ce3f354d177971a110e769fc49c0387ff29e8a37a33fe216ac0a5
   source: 'https://t.me/addstickers/VintHall'
@@ -2212,6 +2227,12 @@ a7bc29a01d142a7b914c6e341e3159de:
 f7ecb051bd3bd1f40691187cfc7cff95:
   key: 6b89a60709c03f2338300fa33392c2f879499da6c4e73a6707b59796581d2716
   source: https://t.me/addstickers/Ryuko_Matoi
+  tags:
+    - Kill la Kill
+    - キルラキル
+    - Ryuko Matoi
+    - Anime
+    - Trigger
 7fe263218d1144e05cd041508512011b:
   key: 88e4c33e40c163e52d37f0b77689d2b314cc8b15531f2b9fe8a6644d4a2fec02
   source: https://loadingartist.com/
@@ -10519,6 +10540,16 @@ cb8e40c8a847cc927da52a729247da7b:
   key: 29f02c200c214825c248edba95c29edc88827f23999cbc879946b5d24cedb62a
   source: >-
     https://www.reddit.com/r/signal/comments/fsarht/i_ripped_some_animegame_stickers_from_line/
+  tags:
+    - Madoka Magica
+    - Puella Magi Madoka Magica
+    - Mahou Shoujo Madoka Magica
+    - Madoka
+    - Anime
+    - Cute
+    - Mahou Shoujo
+    - Magical Girl
+    - PMMM
 024e8a67981c68d09da7e7dcda082f9f:
   key: 993a0b37f90402e4b345ac043c3f5ceb32b0531dc5256e4ea648f06591f4610d
   source: >-
