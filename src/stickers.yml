@@ -9,6 +9,13 @@
 # file in this repository for more information.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+8210c3926f00a50cf2126dd56b9cc139:
+  key: d2c8730a278b2b3bc67a08a13389ae13e6d63a1de08381df279516b4423b2c07
+  source: 'https://t.me/addstickers/MrRobott'
+  tags: []
+  nsfw: True
+  original: False
+  animated: False
 a4fe92d48580de629efbe625687a7825:
   key: 667249ea007ce3f354d177971a110e769fc49c0387ff29e8a37a33fe216ac0a5
   source: 'https://t.me/addstickers/VintHall'
