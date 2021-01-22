@@ -2,7 +2,7 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 100,
+  "imageSize": 72,
   "commit": false,
   "contributors": [
     {
@@ -98,7 +98,7 @@
       ]
     }
   ],
-  "contributorsPerLine": 12,
+  "contributorsPerLine": 10,
   "projectName": "stickers",
   "projectOwner": "signalstickers",
   "repoType": "github",
