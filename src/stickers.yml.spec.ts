@@ -3,21 +3,23 @@ import {
   parseYaml,
   validate
 } from 'lib/test-utils';
+// import log from 'lib/log';
 
 
-describe('Validate stickers.yml', () => {
-  test('Ensure stickers.yml is valid YAML.', () => {
-    expect(() => {
-      parseYaml(require.resolve('./stickers.yml'));
-    }).not.toThrow();
-  });
+describe('stickers.yml', () => {
+  it('should conform to the StickerPackMetadata schema', () => {
+    try {
+      // This will throw if there are any syntax errors or duplicate
+      // key mappings. (ie: duplicate sticker pack IDs).
+      const parsedYaml = parseYaml(require.resolve('./stickers.yml'));
 
-  test('Ensure stickers.yml adheres to our schema.', () => {
-    const parsedYaml = parseYaml(require.resolve('./stickers.yml'));
-    const isValid = validate(parsedYaml);
-
-    if (!isValid) {
-      fail(new Error(parseErrors(parsedYaml)));
+      // This will throw if the file is valid YAML but does not conform to our
+      // schema.
+      if (!validate(parsedYaml)) {
+        throw new Error(parseErrors(parsedYaml));
+      }
+    } catch (err) {
+      fail(err);
     }
   });
 });
