@@ -1,4 +1,7 @@
 <a href="https://signalstickers.com" id="top">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
   <img src="https://user-images.githubusercontent.com/441546/105129971-02e62500-5a9b-11eb-88f5-21065084e25d.png" style="max-width: 100%;" />
 </a>
 <p align="center">
@@ -32,3 +35,23 @@ that makes use of the data contained herein is obligated to license the data
 and any modifications thereto or derivatives thereof under the Creative Commons
 Attribution Non-Commercial 4.0 license. For more information, see the
 [LICENSE](/LICENSE) copy.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://joshua.dev"><img src="https://avatars.githubusercontent.com/u/441546?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joshua</b></sub></a><br /><a href="https://github.com/signalstickers/stickers/commits?author=darkobits" title="Code">💻</a> <a href="#design-darkobits" title="Design">🎨</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
