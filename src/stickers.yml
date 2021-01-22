@@ -10,6 +10,98 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+b562ba6798fd2baf3c1e70a5b6c17a4d:
+  key: 9852c63f3c1bf71b34bb054d1ab3886425a227042b78680b27eb5d780b012574
+  tags:
+    - meme
+    - wojack
+d486712c52018c3c5b3b7e56b39f9c5c:
+  key: be7f1f20c96a942c405b0a368aac2482607dafc27fb99cd385a83c60a66aefaa
+  source: 'https://twitter.com/MayaErgas/status/1352663458366562313'
+  tags:
+    - Bernie Sanders
+    - chair
+  original: true
+af298b8f855b7c9f600988e2825f586b:
+  key: 0b4d5e8b6205d5f8289b4c2b23b4bc17582b682c3b44cfe19e9a3a2eb46a810f
+  source: 'https://twitter.com/the_john__/status/1352680524142301191'
+  tags:
+    - ghost
+  animated: true
+925e32ee8cd4e4d08fcdf2e026b98fad:
+  key: 6bd22c6874697db22c6408a82598e53264637858e68af1d8b9b3dce83108db7a
+  source: 'https://twitter.com/gnackig/status/1352415793061871617'
+  original: true
+  animated: true
+93cdf8c87404a578ad4bee5ee4f69b47:
+  key: c0593950f1eb7bd998edbf8b0cad5eae5794c58aec67abc63572f32136616377
+  source: 'https://twitter.com/CondeNaoh/status/1352128172616278017'
+  tags:
+    - blizzard
+    - Warcraft
+    - Diablo
+    - StarCraft
+    - The Lost Vikings
+    - Overwatch
+3a989ad6fe3ae44305928bc029df3113:
+  key: 6324ea13f6e4491a243d606661dd53aed2501c1c846f205635d4fef6a955c6d4
+  source: 'https://twitter.com/rk_pradeep/status/1352047581308874761'
+d7e48db5b6e2e720daec490f1ef32ae1:
+  key: b7b3f6ddb94f9c56e6c873df3f68e433cbe51579aca9d0863bb2719cd33cb99e
+  source: 'https://twitter.com/itocontreras/status/1351982815076823041'
+de4125f967b016cd47cf47a79977539c:
+  key: 144e283370592a4363edec36b3d87f1d9e5ce0de9e5bb79087b0418c704c6bb2
+  source: 'https://twitter.com/smallsoup2/status/1351957564322267138'
+  tags:
+    - cat
+    - daily
+    - office
+    - pets
+  original: true
+0f35bec5b0b1168e587370b6aa0f1693:
+  key: 1283ea68e9d53d17d592cf73efad292f15d0897b4c5fff869f3e61c15dc4e983
+  source: 'https://twitter.com/CondeNaoh/status/1351939248581128195'
+  tags:
+    - marie
+    - aristocats
+ce8404e32667b42dfc3d32a196912667:
+  key: afad5865b4d8b00dc744437ede0b5bf0b3577b119bb0eb33b52406f28bffa0ad
+  source: 'https://twitter.com/eisnymphe/status/1351918350834622465'
+  animated: true
+0639498a71647d37ee8722f6de956e77:
+  key: 2106c1f76ab5ca7f8f8a8cfec984a532a90f6f1155a579cf25766e901375ed9c
+  source: 'https://twitter.com/95xhyung/status/1351537686935343105'
+  original: true
+8004905ce42711cf629261b7166e016f:
+  key: e720fe7a5ff87d1fbccd9504de283c705be348c4fe98db35dfc6400d7a8a04d2
+  source: 'oslocez [linktr.ee/oslocez]'
+  tags:
+    - CherryMagic
+    - Cherry
+    - Magic
+    - Adachi
+    - Kurosawa
+    - Japan
+    - Japanese
+    - Drama
+    - BL
+    - LGBT
+efea8a41a75d6bf5097a27d2288aa91e:
+  key: 5a32318f43251758446c8cb5e45013d50d689fbca020e988a98c027fd1e6b251
+  source: 'oslocez [linktr.ee/oslocez]'
+  tags:
+    - CherryMagic
+    - Cherry
+    - Magic
+    - Adachi
+    - Kurosawa
+    - Japan
+    - Japanese
+    - Drama
+    - BL
+    - LGBT
+7b3bdeda9df6f550c44f058a2b589afb:
+  key: 07a09129daf387d64d31deafb0986838d5fb8a640844139eb84e152f4179b2ca
 cf5ca9af49d556450d6e933b0d19ac8c:
   key: e2e95d826acc9f789507e6853740a219fc93af695dc922c88dc677c6803ed821
   source: cinnamonspots.com
@@ -554,7 +646,7 @@ f3038d1e6d8a45df6c5223c0b7f01947:
     - Malayalis Corner
 3eb1d40747e5c43fb5fdfc65d3166856:
   key: f86134845dbc61ebb0c5ce9c8f6fcbc9a7826d7a4c41b3ed0706a2c4137d172c
-  source: HKWordie
+  source: 'https://www.instagram.com/hkwordie/'
   tags:
     - Hong Kong
     - HK
