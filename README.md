@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/441546/105129971-02e62500-5a9b-11eb-88f5-21065084e25d.png" style="max-width: 100%;" />
 </a>
 <p align="center">
-  <a href="https://github.com/signalstickers/stickers/actions"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fsignalstickers%2Fstickers%2Fbadge%3Fref%3Dmaster&style=flat-square&label=build&logo=none"></a>
+  <a href="https://github.com/signalstickers/stickers/actions"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fsignalstickers%2Fstickers%2Fbadge%3Fref%3Dmaster&label=build&logo=none&style=flat-square"></a>
   <a href="#contributors-"><img src="https://img.shields.io/github/contributors/signalstickers/stickers?style=flat-square"></a>
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/static/v1?label=license&message=CC-BY-NC-SA-4.0&style=flat-square&color=398AFB"></a>
   <a href="https://twitter.com/signalstickers"><img src="https://img.shields.io/twitter/follow/signalstickers?label=Feed&style=social"></a>
@@ -17,6 +17,17 @@ If you're here to add a sticker pack to the directory, we suggest you use our
 [Contribute form](https://signalstickers.com/contribute) to generate the
 information we will need from you. Upon completion of that form, you'll be
 brought to this repository where you can submit your updates to `stickers.yml`.
+
+If you would like to be included in our list of contributors (which we
+encourage!) you'll need to add `@all-contributors add @fluffykins for content`
+to to your Pull Request's description (assuming your GitHub username is
+**fluffykins**).
+
+For example:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/441546/105503175-210a7b80-5c7b-11eb-8078-a31103f4bac5.png" style="max-width: 80%;" />
+</p>
 
 ## License & Usage
 
