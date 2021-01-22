@@ -33,8 +33,6 @@ and any modifications thereto or derivatives thereof under the Creative Commons
 Attribution Non-Commercial 4.0 license. For more information, see the
 [LICENSE](/LICENSE) copy.
 
-Test.
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
