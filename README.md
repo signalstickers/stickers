@@ -49,6 +49,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/adbridgehk"><img src="https://avatars.githubusercontent.com/u/77728961?v=4?s=100" width="100px;" alt=""/><br /><sub><b>adbridgehk</b></sub></a><br /><a href="#content-adbridgehk" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/UU822"><img src="https://avatars.githubusercontent.com/u/77533769?v=4?s=100" width="100px;" alt=""/><br /><sub><b>UU822</b></sub></a><br /><a href="#content-UU822" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/brucerusso"><img src="https://avatars.githubusercontent.com/u/77784857?v=4?s=100" width="100px;" alt=""/><br /><sub><b>brucerusso</b></sub></a><br /><a href="#content-brucerusso" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/hasjahsjahksj"><img src="https://avatars.githubusercontent.com/u/45498561?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hasjahsjahksj</b></sub></a><br /><a href="#content-hasjahsjahksj" title="Content">🖋</a></td>
   </tr>
 </table>
 
