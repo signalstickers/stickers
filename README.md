@@ -51,6 +51,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/brucerusso"><img src="https://avatars.githubusercontent.com/u/77784857?v=4?s=100" width="100px;" alt=""/><br /><sub><b>brucerusso</b></sub></a><br /><a href="#content-brucerusso" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/hasjahsjahksj"><img src="https://avatars.githubusercontent.com/u/45498561?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hasjahsjahksj</b></sub></a><br /><a href="#content-hasjahsjahksj" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Small-Ku"><img src="https://avatars.githubusercontent.com/u/16464896?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Small_Ku</b></sub></a><br /><a href="#content-Small-Ku" title="Content">🖋</a></td>
+    <td align="center"><a href="http://code.lockszmith.com"><img src="https://avatars.githubusercontent.com/u/905716?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gal Szkolnik</b></sub></a><br /><a href="#content-Lockszmith" title="Content">🖋</a></td>
   </tr>
 </table>
 
