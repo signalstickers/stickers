@@ -144,7 +144,7 @@ export default async function compileStickerPackPartials(options: Required<Fetch
   await fs.ensureDir(path.dirname(absOutputFilePath));
   await fs.writeJSON(absOutputFilePath, stickerPackPartials, { spaces: 2 });
   const gzippedSize = bytes(await gzipSize.file(absOutputFilePath));
-  const cacheHitRate = `${Math.round(numCacheHits / allStickerPackIds.length * 100)}%`;
+  const cacheHitRate = `${Math.floor(numCacheHits / allStickerPackIds.length * 100)}%`;
 
   log.info(log.prefix('stats'), `Done in ${log.chalk.cyan(runTime)}.`);
   log.info(log.prefix('stats'), `Cache hit rate: ${log.chalk.yellow(cacheHitRate)}`);
