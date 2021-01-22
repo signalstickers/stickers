@@ -9,6 +9,17 @@
 # file in this repository for more information.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+b4f99ab15bec8c3cee5a76472057d5d0:
+  key: 5107076bbbec056b6acc6c44616d009dfd135c5893f65f40ef225e45669c4bea
+  source: 'https://t.me/addstickers/signal_6b7b905d'
+  tags: 
+    - 'Hike'
+    - 'Moody'
+    - 'Sad'
+    - 'HarishBeWe'
+  nsfw: False
+  original: False
+  animated: False
 a4fe92d48580de629efbe625687a7825:
   key: 667249ea007ce3f354d177971a110e769fc49c0387ff29e8a37a33fe216ac0a5
   source: 'https://t.me/addstickers/VintHall'
