@@ -5,8 +5,8 @@ on:
 env:
   FORCE_COLOR: 3
 jobs:
-  build:
-    name: Compile Sticker Pack Partials
+  ci:
+    name: Compile Partials
     runs-on: ubuntu-latest
     steps:
       - name: Cancel Previous Runs
@@ -38,10 +38,12 @@ jobs:
       - name: Install Dependencies
         if: steps.dependencies-cache.outputs.cache-hit != 'true'
         run: npm ci
-      - name: Prepare Project
-        run: npx nps prepare
+      - name: Build Project
+        run: npx nps build
+      - name: Validate Manifest
+        run: npx nps test
       - name: Compile Sticker Pack Partials
-        run: npx compile-stickers --input-file src/stickers.yml --output-file partials/partials.json
+        run: npx nps compile
       - name: Configure SSH
         if: github.ref == 'refs/heads/master'
         uses: webfactory/ssh-agent@v0.4.1
