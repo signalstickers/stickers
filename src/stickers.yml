@@ -9,6 +9,12 @@
 # file in this repository for more information.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+b881ba6bb3ba6972227f5ba59f54fdc8:
+  key: 73746f6c656e2066726f6d207369676e616c737469636b6572732e636f6d2121
+  tags:
+    - 'Halloween'
+    - 'Pumpkin'
+  original: true
 a4fe92d48580de629efbe625687a7825:
   key: 667249ea007ce3f354d177971a110e769fc49c0387ff29e8a37a33fe216ac0a5
   source: 'https://t.me/addstickers/VintHall'
