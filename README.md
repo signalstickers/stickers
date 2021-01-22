@@ -26,7 +26,7 @@ to to your Pull Request's description (assuming your GitHub username is
 For example:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/441546/105503175-210a7b80-5c7b-11eb-8078-a31103f4bac5.png" style="max-width: 80%;" />
+  <img src="https://user-images.githubusercontent.com/441546/105504353-8448dd80-5c7c-11eb-89c1-b184ad9307dc.png" style="max-width: 60%;" />
 </p>
 
 ## License & Usage
