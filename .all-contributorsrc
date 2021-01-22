@@ -14,13 +14,23 @@
         "code",
         "design"
       ]
-    }, {
+    },
+    {
       "login": "Therealzz",
       "name": "Therealzz",
       "avatar_url": "https://avatars.githubusercontent.com/u/45063024?v=4",
       "profile": "https://github.com/Therealzz",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "darkobits",
+      "name": "Joshua",
+      "avatar_url": "https://avatars.githubusercontent.com/u/441546?v=4",
+      "profile": "https://joshua.dev",
+      "contributions": [
+        "code"
       ]
     }
   ],
