@@ -28,13 +28,13 @@ jobs:
           key: dependencies-${{ hashFiles('package-lock.json') }}
           path: node_modules
       - name: Use Sticker Partials Cache
-        id: sticker-partials-cache
+        id: sticker-manifests-cache
         uses: actions/cache@v1
         with:
-          key: sticker-partials-${{ hashFiles('src/stickers.yml') }}
-          path: .sticker-partials-cache
+          key: sticker-manifests-${{ hashFiles('src/stickers.yml') }}
+          path: .sticker-manifests-cache
           restore-keys: |
-            sticker-partials-
+            sticker-manifests-
       - name: Install Dependencies
         if: steps.dependencies-cache.outputs.cache-hit != 'true'
         run: npm ci
