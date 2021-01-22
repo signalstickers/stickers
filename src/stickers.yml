@@ -8,7 +8,15 @@
 # Attribution Non-Commercial Share-Alike 4.0 license. Please see the LICENSE
 # file in this repository for more information.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------01255939fcc17803f219cd691a372b3e:
+  key: 4e1aa43679e7af706d981f84921b81341f088ca53486491bea41fc3991f4c0e4
+  source: 'https://telegram.dog/addstickers/CheGeva'
+  tags: 
+    - 'Che Guevara comrade socialist communist'
+  nsfw: False
+  original: False
+  animated: False
+
 a4fe92d48580de629efbe625687a7825:
   key: 667249ea007ce3f354d177971a110e769fc49c0387ff29e8a37a33fe216ac0a5
   source: 'https://t.me/addstickers/VintHall'
