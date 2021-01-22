@@ -9,12 +9,69 @@
 # file in this repository for more information.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+
 45b38fa0b02ea6b1147950283a8c0541:
   key: d5ac3b1375a83d73641cfe7262cc1676a09088f9ad30f6f9280983b1a4d5b867
   source: 'https://store.line.me/stickershop/product/8542'
   tags:
     - Pikachu
     - Pokemon
+9c23bc18d9ba415af8865c868e4d61ce:
+  key: c7ee08d647beb7d16c54d882669c8d806472baefb6973e07b02a27fe8f382995
+  source: https://t.me/addstickers/AdventureSticke
+290c43c3f9de578aa6da2bbb2b3e2877:
+  key: ac369f156dfec8ff4d12bafeea8bf0f06aa61d457bcab224934bee2c6d3ea952
+  source: https://telegram.dog/addstickers/Totoro
+01255939fcc17803f219cd691a372b3e:
+  key: 4e1aa43679e7af706d981f84921b81341f088ca53486491bea41fc3991f4c0e4
+  source: https://telegram.dog/addstickers/CheGeva
+  tags:
+    - Che Guevara comrade socialist communist
+7780535d1f9e567645544ae9e2d0a528:
+  key: 4e2bd0b888ef0ba4cf4c86c8e2da53a1ba603c2a48dc75110c5c943ba0fcca32
+  source: https://t.me/addstickers/PokemonMasters
+  tags:
+    - Pokémon
+fca0706491d12d7e18c6856baccf3242:
+  key: 5233588420af5071bf3352daedd13ecf16701b663cc7a22583184a270227342e
+  source: https://t.me/addstickers/blobbyyyy
+4b821c069eafbb86e0b416b82d3c33c4:
+  key: 07f9259e6f70dcb6a54f480ef8a1e205e239f90549b64f9eef8a6df089648ee5
+  source: https://t.me/addstickers/PIZZAITALYDIGE4
+bdd350145c9426a9f90b1cdcca14971f:
+  key: 0159638f8732a22f00bee0d4a841bee7d26566f67e86422a364c7a601e50224e
+  source: 'PUI PUI モルモット 天竺鼠車車 '
+  tags:
+    - PUI PUI
+  nsfw: true
+  original: true
+  animated: true
+12f31d7ca423b02c152032832ac6aaed:
+  key: 2fa0df9b82e42a6241e55857129e6a2644bb5c0feb19b0eb73c223b89e31beeb
+  source: nu1t
+  tags:
+    - toilet
+    - cute
+    - shit
+3ba1d22f756aa0c09c0097ca3542b913:
+  key: d618293733b353ef4431d071e328dd7cd1d5eb934f60599fe87a5d9182ee0246
+  source: 'https://getstickerpack.com/stickers/yldym-hm-htsrytym-htwbym-bwlm'
+  tags:
+    - yldym
+    - yeladim
+    - yeladimem
+    - 'ילדים'
+    - 'תסריטאים'
+    - language-hebrew
+    - hebrew
+    - meme
+    - hebrew-meme
+    - עברית
+108539778d971a7c62e7b5ec07d3eec0:
+  key: de5a9f2b43e1ea3853b9e1c0fbbba48cf8054c51acb619f147d716537053d547
+  source: 'https://store.line.me/stickershop/product/6525108/zh-Hant'
+  tags:
+    - rabbit  bear
   animated: true
 26a3ab21c35d3d2127e8e3645fbac83e:
   key: 1bcf1d63f3167856aa0bb3ac12118d2775b856253fed899deedf346fc88b70d5
@@ -27,12 +84,12 @@
 a4fe92d48580de629efbe625687a7825:
   key: 667249ea007ce3f354d177971a110e769fc49c0387ff29e8a37a33fe216ac0a5
   source: 'https://t.me/addstickers/VintHall'
-  tags: 
+  tags:
     - 'Vintage Halloween Costumes'
 af7a4044ea4b00e1c9b6670d1751dc48:
   key: ef139e60968ff8cff040a7a3662ff050f88e562e45c610e437dc638dc2a3b772
   source: 'https://t.me/addstickers/ok_by_hike_stic'
-  tags: 
+  tags:
     - 'Mood swings'
     - 'Hike'
     - 'Girl'
@@ -40,7 +97,7 @@ af7a4044ea4b00e1c9b6670d1751dc48:
 a33022f42fb1a42637843b8b14840219:
   key: f771215655dcb66ebe6fa909bf478d9efd470012356b3897d8c10b1c8fcd9d1c
   source: 'https://t.me/addstickers/thankswelcome_b'
-  tags: 
+  tags:
     - 'Thanks'
     - 'Words'
     - 'Hike'
@@ -48,14 +105,14 @@ a33022f42fb1a42637843b8b14840219:
 d5b70d5acca91e28ae98a596fb2589aa:
   key: 345c88c5ea1b8fbeb04fe3df37c9277a2a07457ea62e7092c4e02c025f4d8ae7
   source: 'https://t.me/addstickers/comictypo_by_hi'
-  tags: 
+  tags:
     - 'Hike'
     - 'Buzzwords'
     - 'Epic'
 7a3d2ee17dac776218cad3b9dd8dcba6:
   key: 97fd10b8301645cf52c76ca6d49aa23dc7f1db5c2c8854ea157e58648fa2b27a
   source: 'https://t.me/addstickers/sadness_by_hike'
-  tags: 
+  tags:
     - 'Hike'
     - 'Long Distance'
     - 'HarishBeWe'
