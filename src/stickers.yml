@@ -9,6 +9,7 @@
 # file in this repository for more information.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+
 cf5ca9af49d556450d6e933b0d19ac8c:
   key: e2e95d826acc9f789507e6853740a219fc93af695dc922c88dc677c6803ed821
   source: cinnamonspots.com
@@ -20,6 +21,18 @@ cf5ca9af49d556450d6e933b0d19ac8c:
     - Nal
     - Furry
     - Telegram
+5b98e809b15db48442c66b77af8b01d4:
+  key: 191bce9380916ee8a1c0eae2b884d3c9b27e665ab301304acfff185f798a8b14
+  source: https://t.me/addstickers/Arlox24818NaL
+8210c3926f00a50cf2126dd56b9cc139:
+  key: d2c8730a278b2b3bc67a08a13389ae13e6d63a1de08381df279516b4423b2c07
+  source: 'https://t.me/addstickers/MrRobott'
+a3451b328a19b5d65bb8dbf12f93cd7f:
+  key: 9e221ad287748ecfd5cb92d55b22db5dfb38a40fb9315582dd49b5344f420acb
+  source: Bruce Russo
+  tags:
+    - bakchodi
+  nsfw: true
 135abd20e608591dc0a432e2904935b2:
   key: 75b7ecbcbecabd7758684c1c955222a8f9feffc95c32926746f9dd076c3620de
   nsfw: true
