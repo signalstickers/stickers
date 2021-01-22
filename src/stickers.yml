@@ -8,7 +8,14 @@
 # Attribution Non-Commercial Share-Alike 4.0 license. Please see the LICENSE
 # file in this repository for more information.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------290c43c3f9de578aa6da2bbb2b3e2877:
+  key: ac369f156dfec8ff4d12bafeea8bf0f06aa61d457bcab224934bee2c6d3ea952
+  source: 'https://telegram.dog/addstickers/Totoro'
+  tags: []
+  nsfw: False
+  original: False
+  animated: False
+
 a4fe92d48580de629efbe625687a7825:
   key: 667249ea007ce3f354d177971a110e769fc49c0387ff29e8a37a33fe216ac0a5
   source: 'https://t.me/addstickers/VintHall'
