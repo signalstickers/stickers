@@ -46,6 +46,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://romainricard.fr"><img src="https://avatars.githubusercontent.com/u/7778898?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Romain Ricard</b></sub></a><br /><a href="https://github.com/signalstickers/stickers/commits?author=romainricard" title="Code">💻</a> <a href="#design-romainricard" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/Therealzz"><img src="https://avatars.githubusercontent.com/u/45063024?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Therealzz</b></sub></a><br /><a href="#content-Therealzz" title="Content">🖋</a></td>
+    <td align="center"><a href="https://joshua.dev"><img src="https://avatars.githubusercontent.com/u/441546?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joshua</b></sub></a><br /><a href="https://github.com/signalstickers/stickers/commits?author=darkobits" title="Code">💻</a></td>
   </tr>
 </table>
 
