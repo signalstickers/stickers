@@ -33,6 +33,15 @@
         "code",
         "infra"
       ]
+    },
+    {
+      "login": "guineapigteddy",
+      "name": "guineapigteddy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77782568?v=4",
+      "profile": "https://github.com/guineapigteddy",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
