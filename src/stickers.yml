@@ -9,6 +9,13 @@
 # file in this repository for more information.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+45b38fa0b02ea6b1147950283a8c0541:
+  key: d5ac3b1375a83d73641cfe7262cc1676a09088f9ad30f6f9280983b1a4d5b867
+  source: 'https://store.line.me/stickershop/product/8542'
+  tags:
+    - Pikachu
+    - Pokemon
+  animated: true
 26a3ab21c35d3d2127e8e3645fbac83e:
   key: 1bcf1d63f3167856aa0bb3ac12118d2775b856253fed899deedf346fc88b70d5
   source: https://tlgrm.eu/stickers/EvilMinds
