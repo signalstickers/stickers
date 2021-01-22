@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "romainricard",
+      "name": "Romain Ricard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7778898?v=4",
+      "profile": "https://romainricard.fr",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "stickers",
+  "projectOwner": "signalstickers",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
