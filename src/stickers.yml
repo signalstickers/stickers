@@ -42,7 +42,6 @@ a3451b328a19b5d65bb8dbf12f93cd7f:
 135abd20e608591dc0a432e2904935b2:
   key: 75b7ecbcbecabd7758684c1c955222a8f9feffc95c32926746f9dd076c3620de
   nsfw: true
-  animated: true
 6b7fdcd7a47166a3ae35c2a433857ebd:
   key: 442f9be1d3616e1e8a4eea0b674d09105de40b9fc618d95a4439661374588d1d
   source: 'https://stickers.cloud/pack/pingu-1'
@@ -103,7 +102,6 @@ bdd350145c9426a9f90b1cdcca14971f:
   source: 'PUI PUI モルモット 天竺鼠車車 '
   tags:
     - PUI PUI
-  nsfw: true
   original: true
   animated: true
 12f31d7ca423b02c152032832ac6aaed:
@@ -339,14 +337,6 @@ cf00c076e91710b3a3632d1319a7f1f7:
   key: 1d4cce708f69cd5b367c26782d94c80b2bf3bb4a6cbaaa01e84f9dcd105a9093
   source: HKUMed
   animated: true
-59b0f578b44e55bed0e41599d5b87d9b:
-  key: a26482a0bc29cb46631dbf4285ab8d2ea58e29604161500f3341b7850932c855
-  source: elvyynd
-  tags:
-    - Tony Montana
-    - Scarface
-    - Al Pacino
-    - elvyynd
 0943db343ac94e1dcca153c3f944fd99:
   key: dc0a470ed4157b3b4b7b1163b1ab3e391ace0cc830fad5f8146272ecbf0cac9c
   source: 'https://walfiegif.wordpress.com/'
@@ -570,7 +560,7 @@ f3038d1e6d8a45df6c5223c0b7f01947:
     - Malayalis Corner
 3eb1d40747e5c43fb5fdfc65d3166856:
   key: f86134845dbc61ebb0c5ce9c8f6fcbc9a7826d7a4c41b3ed0706a2c4137d172c
-  source: HKWordie
+  source: 'https://www.instagram.com/hkwordie/'
   tags:
     - Hong Kong
     - HK
@@ -803,15 +793,6 @@ adc87927da431110dc7ab5dd3cc86d1a:
   tags:
     - Kuromi
     - Sanrio
-5be77050f704a1871e8c8585c8c9eaf7:
-  key: 622c2dc4fde4e195b349a8cc91395155ad2e95783e1fd24cf8e091a1ff813f14
-  source: elvyynd
-  tags:
-    - Lord Voldemort
-    - Voldemort
-    - Tom Riddle
-    - Harry Potter
-    - elvyynd
 04d99fcf580b6b2531e4c88b1e30625a:
   key: 8e01fa0dc84810e35620111f1da32bd33fbb3f4368e2b12ba56cf5e7fd54891f
   source: https://twitter.com/smallsoup2/status/1350405219545350152
