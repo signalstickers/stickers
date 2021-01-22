@@ -8,7 +8,15 @@
 # Attribution Non-Commercial Share-Alike 4.0 license. Please see the LICENSE
 # file in this repository for more information.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------7780535d1f9e567645544ae9e2d0a528:
+  key: 4e2bd0b888ef0ba4cf4c86c8e2da53a1ba603c2a48dc75110c5c943ba0fcca32
+  source: 'https://t.me/addstickers/PokemonMasters'
+  tags: 
+    - 'Pokémon'
+  nsfw: False
+  original: False
+  animated: False
+
 a4fe92d48580de629efbe625687a7825:
   key: 667249ea007ce3f354d177971a110e769fc49c0387ff29e8a37a33fe216ac0a5
   source: 'https://t.me/addstickers/VintHall'
