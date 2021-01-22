@@ -3,7 +3,7 @@
 </a>
 <p align="center">
   <a href="https://github.com/signalstickers/stickers/actions"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fsignalstickers%2Fstickers%2Fbadge%3Fref%3Dmaster&style=flat-square&label=build&logo=none"></a>
-  <a href="#contributors"><img src="https://img.shields.io/github/contributors/signalstickers/signalstickers"></a>
+  <a href="#contributors-"><img src="https://img.shields.io/github/contributors/signalstickers/signalstickers"></a>
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/static/v1?label=license&message=CC-BY-NC-SA-4.0&style=flat-square&color=398AFB"></a>
   <a href="https://twitter.com/signalstickers"><img src="https://img.shields.io/twitter/follow/signalstickers?label=Feed&style=social"></a>
 </p>
@@ -32,6 +32,8 @@ that makes use of the data contained herein is obligated to license the data
 and any modifications thereto or derivatives thereof under the Creative Commons
 Attribution Non-Commercial 4.0 license. For more information, see the
 [LICENSE](/LICENSE) copy.
+
+Test.
 
 ## Contributors ✨
 
