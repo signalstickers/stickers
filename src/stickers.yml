@@ -9,7 +9,15 @@
 # file in this repository for more information.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
-
+c37d1521f98d442a30984cf68f299427:
+  key: 47aed5695094ce2061e88190439714bb4a7fd520c3f301f91c640caa168b2d8f
+  source: 'https://www.pcmarket.com.hk'
+  tags:
+    - PCM
+    - Chinese New Year
+    - Lunar New Year
+    - Plug Media
+  original: true
 b562ba6798fd2baf3c1e70a5b6c17a4d:
   key: 9852c63f3c1bf71b34bb054d1ab3886425a227042b78680b27eb5d780b012574
   tags:
