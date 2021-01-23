@@ -10,6 +10,81 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+6439ab6960c8a1235327300f6c16b750:
+  key: 0c49602f413bba24c620142d0eeafd7e46d060cc53c15d1f6c7a012aa0eae421
+  source: 'http://dull.fr'
+  original: true
+  animated: true
+840cfd5ab5d7657dbc8d18dd1eaae377:
+  key: a0af9ff0228512543bcab99f45cc129d7d0c319b10da809da8cdf1a850d21651
+  tags:
+    - LiberateHongKong
+    - freehk
+    - hk
+    - hkg
+8a0d470316fbf21a996c1cae3cd6b6f7:
+  key: a131c6cdae78010384f4df8307733f52208cceaf2b15859ee0d487e57d036d01
+  source: softcenteregg
+  tags:
+    - Marvel
+    - squirrel girl
+    - squirrel
+  original: true
+032ba2eb5c5556d0e800dd16ee047bbf:
+  key: 16303b1f8cc3f745a233eec988d6e68085bb3efabff83fa99f0463d70ffeb231
+  source: LINE Sticker
+  tags:
+    - Dragon Ball Super Broly
+    - HKG
+    - Goku
+    - Saiyan
+cb7004ec322a59e4b3cd705b7067a178:
+  key: 7c7818d776a8fd7f79abfbefdc739d71097f9523fd16849efe7191d3f98e57d4
+  source: LINE Sticker
+  tags:
+    - HKG
+    - Goku
+    - Saiyan
+    - Vegeta
+4d67efd3459cf6fb610eb4e972fa0e6b:
+  key: 126bbb5bf06af7fa124a4ff5f31957757706f831198469feb735749e76aeabd4
+  source: LINE Sticker
+  tags:
+    - Evil Cat
+    - HKG
+    - Cute
+    - Kawaii
+c8f2fffae74eaf20c5009f77b7ff4caf:
+  key: b9919ea5a2e6af70d4d8232fe4deb6820495b1e19cb11b395afd50e47e891cd2
+  source: LINE Sticker
+  tags:
+    - Evil Cat
+    - HKG
+    - Cute
+    - bad child cat
+4bbd9e3b70d6b2b420cfb976d84ec278:
+  key: a0db92cca07a26626e4c01389ec7102042978faa0fa146a40356f15e87e7b1bd
+  source: LINE Sticker
+  tags:
+    - Snoopy New Year
+    - HKG
+  animated: true
+f2a7698ebf5aff37ca86f06aaec6ddbd:
+  key: 1e19aa07b37054e68b5eb3b5359c9ead8caf4055416595139c98ad4a6d1cf3f4
+  source: LINE Sticker
+  tags:
+    - Digimon
+    - HKG
+e0ec97a004c19d983079d9e79a7134c4:
+  key: a64741d4039432fcefabdd1fd83f3ba6b8e80c7a50a75b69c58bb86eea19a219
+  source: LINE Sticker
+  tags:
+    - Workout Shiba
+    - HKG
+    - cute
+    - dog
+    - gym
+  animated: true
 9b4f111262094c449545896401f3b530:
   key: fc54ff2b0d57456f40b94e52c761b323d820067554e2d2792db31ed88427729c
   source: 'Shamil Chaliyam, Kozhikode Kerala https://www.malayaliscorner.ml/'
@@ -373,9 +448,6 @@ a3451b328a19b5d65bb8dbf12f93cd7f:
   tags:
     - Funny
     - pingu
-00ceb08450e9a641d7e4741eb4d1b351:
-  key: a4d613ec7791f5de06244e164ae6b9e08bfed405ead7318591aefed5484b2303
-  nsfw: true
 7ef7b2d5d8feeaaaba937a813a4c0a91:
   key: 240881db82edd04dc6ca94782dea7b299267d8dc79b9e94ea7a2bcda97c72ccb
   source: '@3grepocok'
