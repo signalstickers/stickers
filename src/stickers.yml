@@ -211,6 +211,68 @@ bdd350145c9426a9f90b1cdcca14971f:
     - meme
     - hebrew-meme
     - עברית
+ca03448f7a6fe605a705a8fd36f9ec22:
+  key: 3f49711b47fd10f432751df225ee8152014941b5115105547d6c1389a9a6d8c4
+  tags:
+    - sbc
+    - 'הכל בסגר'
+    - סגר
+    - Hebrew
+    - עברית
+  original: true
+47e7bf90c7e8a001e7115d57e2c7e4a5:
+  key: 8963b4a53d80af83e6ab017b5a69a0ba17105aae31cfe69c98f30b0e81eee349
+  tags:
+    - sbc
+    - 'בוקר טוב'
+    - 'good morning'
+    - Hebrew
+    - עברית
+  original: true
+ee1ccda4c04e1e33bce655b3a5466749:
+  key: 288544d05d548aec7c36c4e459d7251c28b1fb097aedf39d51ecb2a3b781e626
+  tags:
+    - sbc
+    - 'לבבות'
+    - hearts
+    - Hebrew
+    - עברית
+  original: true
+26d85b3272432f4fe9d1a3c90c02a6c2:
+  key: 9b02795e34fc2f8d1911bee9777411a7add16dbc1764a71a7413e69edfb0db7e
+  tags:
+    - sbc
+    - ברכות
+    - blessings
+    - Hebrew
+    - עברית
+  original: true
+259ed6a3dd54b0aaea019675d27664fe:
+  key: d05acc41145b131923fed2bc546103181bf5a22e32d6094452dc0c1b6b962e4b
+  tags:
+    - sbc
+    - אופק
+    - Hebrew
+    - עברית
+  original: true
+6320137f82d242a54e79f1b44d98c20f:
+  key: 9d4075c3356f0577875558d25f57679a7543d705bfa22b64a4b9943d663290dd
+  tags:
+    - sbc
+    - ירידות
+    - comebacks
+    - Hebrew
+    - עברית
+  original: true
+68e74436a2079af7e297a08f1f428fd7:
+  key: 7039643863df95783aa3e0b1f553955cce336968951c4190d0c13f072af41b0c
+  tags:
+    - sbc
+    - 'מזל טוב'
+    - congratulation
+    - Hebrew
+    - עברית
+  original: true
 108539778d971a7c62e7b5ec07d3eec0:
   key: de5a9f2b43e1ea3853b9e1c0fbbba48cf8054c51acb619f147d716537053d547
   source: 'https://store.line.me/stickershop/product/6525108/zh-Hant'
