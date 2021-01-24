@@ -9,6 +9,12 @@
 # file in this repository for more information.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+0778d965ac2a3d3b0316610265452026:
+  key: db98be0b801cd4e73af212b3c0f7b5401f244c6a2554b63be31a2ff0f51d7b3f
+  tags:
+    - 'firmen'
+    - 'youtubekake'
+  source: 'https://t.me/addstickers/firmen'
 78733f89afb8bec620fd2bcb773ed80d:
   key: 28725301e78a3ecd6c52f87a954d782fbc2b1dd1b1f78126a75e32340cc3cbbd
   source: A. Schmidt
