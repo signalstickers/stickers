@@ -28603,4 +28603,12 @@ ae1d343accdec586fe19954a6be7aee9:
   key: ffea9831b6af7617e4ab1b3868ce6f26f5c7c8ab3f05fb8d68b436f9253232ab
   tags:
     - cat
+e6b60e454c75e919d7bd40d02245b439:
+  key: d24a4947d7b91fbcb5295f41fd87b00e8f780faa05fc5154a6fd0efc0ef7761f
+  source: 'https://quan-inc.jp/characters/businessfish/'
+  tags:
+    - Quan Inc
+    - Business Fish
+    - Facebook
+  animated: true
 # ----------- ⬆︎ PLEASE ADD NEW ENTRIES TO THE TOP OF THIS FILE  ⬆︎ -------------
