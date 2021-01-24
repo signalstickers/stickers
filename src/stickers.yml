@@ -10,6 +10,19 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+d15c9159950b84f5e98eea3a58659938:
+  key: 112766377d7dac392efda1176b51b3f7cff47767091024935f8c88eb4979f828
+  source: >-
+    https://play.google.com/store/apps/details?id=tkstudio.autoresponderforsignal
+  tags:
+    - AutoResponder
+    - bot
+    - auto reply
+    - Signal
+    - circle
+    - robot
+    - emoji
+  original: true
 676d8ba40f73ceb869e7cb2d1b10eca5:
   key: bcf015b6213d98fba7947ffb1b68dc01b39071120111d824cfffa0b1cd4b1f64
   tags:
