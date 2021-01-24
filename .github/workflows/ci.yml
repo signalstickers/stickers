@@ -13,43 +13,54 @@ jobs:
         uses: styfle/cancel-workflow-action@0.6.0
         with:
           access_token: ${{ github.token }}
+
       - name: Clone Repository
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
+
       - name: Set Up Node
         uses: actions/setup-node@v1
         with:
           node-version: 14
+
       - name: Use Dependencies Cache
         id: dependencies-cache
         uses: actions/cache@v1
         with:
           key: dependencies-${{ hashFiles('package-lock.json') }}
           path: node_modules
+
       - name: Use Sticker Partials Cache
-        id: sticker-manifests-cache
         uses: actions/cache@v1
         with:
-          key: sticker-manifests-${{ hashFiles('src/stickers.yml') }}
-          path: .sticker-manifests-cache
-          restore-keys: |
-            sticker-manifests-
+          key: sticker-partials-${{ hashFiles('src/stickers.yml') }}
+          path: .sticker-partials-cache
+          # Only use _exact_ matches for now until we have several cache entries
+          # that use the new cache format.
+          # restore-keys: |
+          #   sticker-partials-
+
       - name: Install Dependencies
         if: steps.dependencies-cache.outputs.cache-hit != 'true'
         run: npm ci
+
       - name: Build Project
         run: npx nps build
+
       - name: Validate Manifest
         run: npx nps test
+
       - name: Compile Sticker Pack Partials
         run: npx nps compile
+
       - name: Configure SSH
         if: github.ref == 'refs/heads/master'
         uses: webfactory/ssh-agent@v0.4.1
         with:
           ssh-private-key: ${{ secrets.GH_PAGES_DEPLOY_KEY }}
-      - name: Deploy Compiled JSON to GitHub Pages
+
+      - name: Deploy JSON to GitHib Pages
         if: github.ref == 'refs/heads/master'
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
