@@ -9,6 +9,13 @@
 # file in this repository for more information.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+
+e90d8d08837e8ef4362f3aae706f48b5:
+  key: 836b17c2dd60f8315b6e61f734425fe50816688f4344d1a2913a277766e0a748
+  tags:
+    - 'Death Note'
+    - 'Anime'
+  source: 'https://t.me/addstickers/deathnotebyblkc'
 78733f89afb8bec620fd2bcb773ed80d:
   key: 28725301e78a3ecd6c52f87a954d782fbc2b1dd1b1f78126a75e32340cc3cbbd
   source: A. Schmidt
@@ -20,7 +27,6 @@
     - Animal
     - Pets
   original: true
-
 6439ab6960c8a1235327300f6c16b750:
   key: 0c49602f413bba24c620142d0eeafd7e46d060cc53c15d1f6c7a012aa0eae421
   source: 'http://dull.fr'
