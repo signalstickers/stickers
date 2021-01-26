@@ -9,7 +9,15 @@
 # file in this repository for more information.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
-
+37bcc1495c6e0f61d08d2f1f6b97b1ee:
+  key: 643dbd9ec8ea77165d2dd6d5c8313a539cb396f38cb20efdf803868d0ad771d7
+  source: 'https://store.line.me/stickershop/product/18050/zh-Hant'
+  tags:
+    - funny
+    - realistic
+    - sarcastic
+    - line
+    - black and white
 eaf688f83222585427a4e7528a353077:
   key: 1412771c2b314d22bc002a7922813f6ae1cf13eecc3e6f3e39c42317002fa5ce
   source: A. Schmidt
