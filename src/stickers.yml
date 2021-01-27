@@ -9,7 +9,16 @@
 # file in this repository for more information.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
-
+22f827e51f5959b0066b7ee75defda2f:
+  key: 9811f007a910f45c71bfeae226ceb1ede8714d883294c139e3912ba47f3befa4
+  source: SSM
+  tags:
+    - hk
+    - lihkg
+    - seed
+    - memes
+  original: true
+  animated: true
 eaf688f83222585427a4e7528a353077:
   key: 1412771c2b314d22bc002a7922813f6ae1cf13eecc3e6f3e39c42317002fa5ce
   source: A. Schmidt
