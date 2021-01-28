@@ -64,13 +64,16 @@ c259690f34b9b599179b64662939f75e:
     - Cute
     - LGBT
     - Climate Change
-  nsfw: true
   original: true
   animated: true
 
 c3dba10efb66e31cd660743f4567cb70:
   key: 451bd28435d0938148180ec46fb8b0f02a75a27f06a1632e8b6fe2cd1494768e
   source: 'https://telegram.dog/addstickers/physike'
+  tags:
+    - physics
+    - physike
+    - science
 
 e293d2ed41ca31f9d903a3fd23b31b9e:
   key: 93e15bf320906f6b9250d2bb820366e01da834057227ae35659566616f672979
