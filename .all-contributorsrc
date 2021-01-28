@@ -152,10 +152,10 @@
       ]
     }
   ],
-  "contributorsPerLine": 8,
+  "contributorsPerLine": 5,
   "projectName": "stickers",
   "projectOwner": "signalstickers",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": false
 }
