@@ -1,0 +1,28 @@
+---
+# This file enumerates all sticker packs in the Signal Stickers directory.
+#
+# Then, select "Create a new branch for this commit and start a pull request"
+# and click "Commit changes" to open a Pull Request with your proposed changes.
+#
+# Disclaimer: The data in this file is licensed under the Creative Commons
+# Attribution Non-Commercial Share-Alike 4.0 license. Please see the LICENSE
+# file in this repository for more information.
+#
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+
+cde5a28d52968fc1b1271378a625f68a:
+  key: 7c3fab01fc7a269a6fc09979585931b7301344cbd548ea03d070c005539da8f6
+  tags:
+    - videogames
+    - reddeadredemption
+    - rdr
+    - rdr2
+    - arthur
+    - morgan
+    - dutch
+    - xbox
+    - ps4
+    - ps5
+    - cowboy
+    - horse
+    - weapon
