@@ -8,7 +8,10 @@
 # file in this repository for more information.
 #
 # ------------------------------------------------------------------------------
-#
+
+b291acff7234db3db72dd73ad9c74d4d:
+  key: 59deee1130810eba408c8fb3aca2c44ddc5a8154d762dd32f08347a9f872702e  source: 'https://t.me/addstickers/pewervarupewerp'
+  nsfw: true#
 # This file enumerates all sticker packs in the Signal Stickers directory.
 #
 # To add a new sticker pack, complete the Contribute form on signalstickers.com.
