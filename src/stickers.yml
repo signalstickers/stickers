@@ -23,6 +23,134 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+be8ede3767b226de3d07315a5b23dce6:
+  key: 72b15de1ad2bdf97102ad6fb933ae51e7cf44f2b439b67898eab6801a4d5c04c
+  source: Frieden Freiheit Fortschritt
+  tags:
+    - DGB Gewerkschaft Streik Arbeitskampf Arbeiterbewegung
+
+616d9d838816344f71ef06bd74d32b35:
+  key: f850d98f8c8ce459385fa9ead942c76bf9a38f34afc3810a2fb199fd947a9c1d
+  source: 'https://quan-inc.jp/characters/businessfish/'
+  tags:
+    - Quan Inc
+    - Business Fish
+    - Facebook
+
+cde5a28d52968fc1b1271378a625f68a:
+  key: 7c3fab01fc7a269a6fc09979585931b7301344cbd548ea03d070c005539da8f6
+  tags:
+    - videogames
+    - reddeadredemption
+    - rdr
+    - rdr2
+    - arthur
+    - morgan
+    - dutch
+    - xbox
+    - ps4
+    - ps5
+    - cowboy
+    - horse
+    - weapon
+
+c259690f34b9b599179b64662939f75e:
+  key: 853f452bac20d3e358536b43bb70c31607201ea8d928f1897c5b42e585043e2c
+  source: Amnesty International
+  tags:
+    - Amnesty
+    - Amnesty International
+    - Love
+    - Cute
+    - LGBT
+    - Climate Change
+  nsfw: true
+  original: true
+  animated: true
+
+c3dba10efb66e31cd660743f4567cb70:
+  key: 451bd28435d0938148180ec46fb8b0f02a75a27f06a1632e8b6fe2cd1494768e
+  source: 'https://telegram.dog/addstickers/physike'
+
+e293d2ed41ca31f9d903a3fd23b31b9e:
+  key: 93e15bf320906f6b9250d2bb820366e01da834057227ae35659566616f672979
+  tags:
+    - 'Telegram'
+    - 'Animals'
+    - 'Penguin'
+  source: 'https://t.me/addstickers/MrPenguin'
+
+00e59c5bc5fdbf88c35e0fc0271efb48:
+  key: d8dabd483d7076cdcf6d874baffd2822c23bf17cfd3d78ea4fc9e94218aefcb4
+  source: 'https://bobayeah.cool'
+  tags:
+    - boba
+    - bubble tea
+    - tea
+    - milk tea
+    - bobayeah
+    - boba yeah
+    - drink
+    - food
+    - emoji
+    - smiley
+    - sticker
+    - sticker pack
+    - cool
+
+eec5023450834900194b562d438a07a7:
+  key: e75b3d583b9a2df2cc3bb4a82851056ae3296e8f545660795a4c4b85bda125ea
+  source: 'https://store.line.me/officialaccount/event/sticker/3269/en'
+  tags:
+    - cat
+  animated: true
+
+b31b18256faa2d76356a5254ea06a1c0:
+  key: b1a95a082aa30674002007f715da32a7fdf5696bc8fffdf4141cc8c13cea2927
+  source: 'https://stickers.cloud/pack/jojo'
+  tags:
+    - jojo
+    - jojo bizarre adventure
+    - anime
+    - bizarre
+    - adventure
+
+7c391a213454cc7b7042da46cb67a813:
+  key: 540c9366bf968385215ff63875fefa2db9a1c297f5fed38f5fd562cf4d08d1c8
+  tags:
+    - 'Pr0gramm.com'
+  source: 'https://t.me/addstickers/Pr0chan'
+
+204dd6b68f440be7ee6b35003ebb2b37:
+  key: ae6d1f8c8795eb4642683a1f09674bf3e1d9c0a3db7b18fefb048ec7c77aeb24
+  source: (screenshots from the show Tonikawa)
+  tags:
+    - anime
+    - cute
+    - tonikawa
+
+555a2c5a25b29bc8dc49ffd495eb712f:
+  key: 5f14f5103ee19c0451553a5af228a2a1130b586aa258e50dd741f2756c2c924c
+  source: (screenshots from the show Tonikawa)
+  tags:
+    - anime
+    - cute
+    - tonikawa
+
+187aac74bcdc89d456c6470c2ce9689d:
+  key: 970df12bf0cf0265d67b4b6fa709d4c93d79ee671ab50442b0716206b8da099e
+  source: sayches.com
+  tags:
+    - Security
+    - Privacy
+    - Internet
+    - Social Network
+    - Surveillance
+    - Censorship
+    - Tech Giants
+    - Anonymous
+  original: true
+
 d90ad86180b0b9ae6127590a34305312:
   key: 2932377392e20b6d5a2da0ecc477775e0bac71bdee1bdb76e7f272e3d7030102
   tags:
@@ -293,7 +421,7 @@ eaf688f83222585427a4e7528a353077:
   tags:
     - dog
     - pet
-    - balloon 
+    - balloon
     - telegram
   animated: true
 
