@@ -36,10 +36,8 @@ jobs:
         with:
           key: sticker-partials-${{ hashFiles('src/stickers.yml') }}
           path: .sticker-partials-cache
-          # Only use _exact_ matches for now until we have several cache entries
-          # that use the new cache format.
-          # restore-keys: |
-          #   sticker-partials-
+          restore-keys: |
+            sticker-partials-
 
       - name: Install Dependencies
         if: steps.dependencies-cache.outputs.cache-hit != 'true'
