@@ -23,6 +23,49 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+0ea1a279f33ef974b3ad2ca7cc62de9a:
+  key: 305dfac62ecb3c5388c93ccc4d1bb3783f02da6a2512f2f31197ba5a3998c3d2
+  source: 'https://twitter.com/seppini/status/1354376414208917508'
+  tags:
+    - mastodon
+    - Fediverse
+  original: true
+
+565492630b4c5e2680706ab65696d5b7:
+  key: 3226f4aab98290016417ea301198450445d8eaa7a2e8cbb832a89cea02be2d2a
+  tags:
+    - 'x files'
+    - 'x-files'
+
+ac67937104aabf83c24ac6efa809c4b1:
+  key: 6efafe4ea649c907a39df36554132f9fabf803e693f0ea5230661ac6f9b75ac0
+  source: 'https://twitter.com/pikng/status/1354268461988368384'
+  tags:
+    - dog
+
+429ea732ea1c55dc9f3eb448c843ed38:
+  key: eaf465c4162dc1d2cf2f64acdc40756ec014e3491a6ff0cba0d5b62a86a6aa47
+  source: 'https://twitter.com/CondeNaoh/status/1354264411549159425'
+  tags:
+    - disney
+
+ddd4650b798fb112162a6f83eca43c66:
+  key: 3690e730bd8242e4a759c3fa6fd37563a83b9a5581f3200e4ff535f902354f74
+  source: Hike
+  tags:
+    - Tamil
+    - Hike
+    - Fun
+    - Comments
+    - Harish
+  animated: true
+
+c2cf9b4b7ed41f863ae2fef1d5ed72ec:
+  key: ba770101be1c1b3a486401b825d8b7141f2ff2721e79c60b5d2ad25aa900ca8d
+  tags:
+    - hello
+  animated: true
+
 e13be66cdf07175f444dfcba2f722195:
   key: 2f466c689eec8bc92a5711cf8bc8520daf507a7c160949ff60504991b6a7b6f1
   tags:
