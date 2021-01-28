@@ -141,6 +141,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "teynav",
+      "name": "Navneet Vikram Tey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40721108?v=4",
+      "profile": "https://github.com/teynav",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 8,
