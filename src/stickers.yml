@@ -283,18 +283,26 @@ eaf688f83222585427a4e7528a353077:
 676d8ba40f73ceb869e7cb2d1b10eca5:
   key: bcf015b6213d98fba7947ffb1b68dc01b39071120111d824cfffa0b1cd4b1f64
   tags:
+    - food
+    - jam
     - telegram
   animated: true
 
 87e1580dc9b7199dc421c3cd053d892e:
   key: 9b85110fb86a11db3a9799e6b2d0c33591937426bac5a5b9eebffa8c07cc3f27
   tags:
+    - dog
+    - pet
+    - balloon 
     - telegram
   animated: true
 
 07386433ec62c1ee34cb1d8146bf5b13:
   key: b8a65656ca79c5cc4e9ea9ba2d4e141188ef2fa964b10c640d00ff148acb8763
   tags:
+    - sheep
+    - animal
+    - cattle
     - telegram
   animated: true
 
@@ -303,29 +311,43 @@ cae9895f5de2d473f93c4aa5eaaefde8:
   tags:
     - telegram
     - mole
+    - animal
+    - digger
+    - cute
   animated: true
 
 debff105fe95942c2fd022071a274648:
   key: bdf47a56caba0d391490b877f06d8b1d51c2f68f0b21df35afb3b3ef9856e9e7
   tags:
     - telegram
+    - strafish
+    - patrick
+    - cartoon
+    - animations
   animated: true
 
 214eaf73a43d7f66f98ce44a43adbafe:
   key: 5939f7449eb8a0c94e7be435c3da7bcb29937b99270c55521fbf0f46953a4365
   tags:
     - telegram
+    - snail
+    - animal
   animated: true
 
 393b397672aaefee5360f38116dde7a1:
   key: 98e1e5a21301b1f6eb9f3cfe45c6667ca9f7b933168118a8b62f614223978026
   tags:
     - telegram
+    - cats
+    - pet
+    - naughty
   animated: true
 
 05b71670761ed28184949c097ff6378d:
   key: 55604177d8c21f1c6b250f3f110d28fe792631f8f6ddc3dd861d458bff89b320
   tags:
+    - fruit
+    - avocado
     - telegram
   animated: true
 
@@ -333,6 +355,9 @@ debff105fe95942c2fd022071a274648:
   key: 42cbe94a171031a9cef65e22ad7f80031e689cfaf4f1881f92da22f89ada9480
   tags:
     - telegram
+    - sock
+    - puppet
+    - funny
   animated: true
 
 3604011915f5bb80d08d0b078e376bb5:
@@ -340,6 +365,9 @@ debff105fe95942c2fd022071a274648:
   tags:
     - telegram
     - axolot
+    - cute
+    - young
+    - love
   animated: true
 
 9de353762a10c62b137bc611a4566d15:
