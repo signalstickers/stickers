@@ -8,7 +8,12 @@
 # file in this repository for more information.
 #
 # ------------------------------------------------------------------------------
-#
+
+e13be66cdf07175f444dfcba2f722195:
+  key: 2f466c689eec8bc92a5711cf8bc8520daf507a7c160949ff60504991b6a7b6f1
+  tags:
+    - 'Homer'
+  source: 'https://t.me/addstickers/HomerStickers'#
 # This file enumerates all sticker packs in the Signal Stickers directory.
 #
 # To add a new sticker pack, complete the Contribute form on signalstickers.com.
