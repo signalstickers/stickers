@@ -78,6 +78,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/syntext"><img src="https://avatars.githubusercontent.com/u/3652855?v=4?s=42" width="42px;" alt=""/><br /><sub><b>syntext</b></sub></a><br /><a href="#content-syntext" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/phoebecyyu"><img src="https://avatars.githubusercontent.com/u/78193762?v=4?s=42" width="42px;" alt=""/><br /><sub><b>phoebecyyu</b></sub></a><br /><a href="#content-phoebecyyu" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/daykin222"><img src="https://avatars.githubusercontent.com/u/78194172?v=4?s=42" width="42px;" alt=""/><br /><sub><b>daykin222</b></sub></a><br /><a href="#content-daykin222" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/DXCanas"><img src="https://avatars.githubusercontent.com/u/9877852?v=4?s=42" width="42px;" alt=""/><br /><sub><b>David C.</b></sub></a><br /><a href="#content-DXCanas" title="Content">🖋</a></td>
   </tr>
 </table>
 
