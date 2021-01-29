@@ -150,6 +150,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "syntext",
+      "name": "syntext",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3652855?v=4",
+      "profile": "https://github.com/syntext",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 5,
