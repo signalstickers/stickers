@@ -11,19 +11,20 @@
 This repository builds the directory of sticker packs listed on
 [signalstickers.com](https://signalstickers.com).
 
-# Adding a Sticker Pack
+## Adding a Sticker Pack
 
 If you're here to add a sticker pack to the directory, we suggest you use our
 [Contribute form](https://signalstickers.com/contribute) to generate the
 information we will need from you. Upon completion of that form, you'll be
-brought to this repository where you can submit your updates to `stickers.yml`.
+brought to this repository where you can submit your updates to
+[`stickers.yml`](https://github.com/signalstickers/stickers/blob/master/src/stickers.yml).
 
 If you would like to be included in our list of contributors (which we
-encourage!) you'll need to add `@all-contributors add @fluffykins for content`
-to to your Pull Request's description (assuming your GitHub username is
-**fluffykins**).
+encourage!) you'll need to add the text
 
-For example:
+`@all-contributors add @your-github-username-here for content`
+
+to to your Pull Request's description. For example:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/441546/105504598-cf62f080-5c7c-11eb-9611-f54599fdea66.png" style="max-width: 60%;" />
@@ -41,8 +42,8 @@ software that consumes it be provided free of charge and collects no data about
 the users of said software that can then be monetized. Furthermore, any software
 that makes use of the data contained herein is obligated to license the data
 and any modifications thereto or derivatives thereof under the Creative Commons
-Attribution Non-Commercial 4.0 license. For more information, see the
-[LICENSE](/LICENSE) copy.
+Attribution Non-Commercial Share-Alike 4.0 license. For more information, see
+the [LICENSE](/LICENSE) copy.
 
 ## Contributors ✨
 
