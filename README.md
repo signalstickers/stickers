@@ -76,6 +76,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/teynav"><img src="https://avatars.githubusercontent.com/u/40721108?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Navneet Vikram Tey</b></sub></a><br /><a href="#content-teynav" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/syntext"><img src="https://avatars.githubusercontent.com/u/3652855?v=4?s=42" width="42px;" alt=""/><br /><sub><b>syntext</b></sub></a><br /><a href="#content-syntext" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/phoebecyyu"><img src="https://avatars.githubusercontent.com/u/78193762?v=4?s=42" width="42px;" alt=""/><br /><sub><b>phoebecyyu</b></sub></a><br /><a href="#content-phoebecyyu" title="Content">🖋</a></td>
   </tr>
 </table>
 
