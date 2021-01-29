@@ -23,6 +23,17 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+57ba76840d055b681490cf1cd87c38d2:
+  key: 8bfec1fd07e222f50cf9b704f360f396425f453fe5039c928ac0f4bdc3d29360
+  source: 'https://www.instagram.com/doodly_woodly_art/'
+  tags:
+    - Cartoon
+    - Cat
+    - Dog
+    - Cute
+    - Animals
+  original: true
+
 0ea1a279f33ef974b3ad2ca7cc62de9a:
   key: 305dfac62ecb3c5388c93ccc4d1bb3783f02da6a2512f2f31197ba5a3998c3d2
   source: 'https://twitter.com/seppini/status/1354376414208917508'
