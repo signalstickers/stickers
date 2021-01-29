@@ -23,6 +23,18 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+7137390d25575ec3c91aedcb42611aba:
+  key: 38c42fd53b0fb202489b020a1e01ca846eda1e2829bfe526de1c318a8063be94
+  source: HKICPA
+  tags:
+    - HKICPA
+    - HongKong
+    - HK
+    - ChineseNewYear
+    - CNY
+  original: true
+  animated: true
+  
 8fc24385097bc23af8fa50be770d030c:
   key: 8b75334c5b4f4c79ef162444200ffafff2e04f0154f01357ecdf89083ac06174
   source: SBS6
