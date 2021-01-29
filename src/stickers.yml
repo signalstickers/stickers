@@ -4948,7 +4948,7 @@ b66187b8efc70df48677703d597283bd:
 bbf76234c80ad262b6c0138d8471360b:
   key: 96ff07a9e0e58561dd69a749d734accdef924ad644a43f8464f35572236710ad
   source: >-
-    https://signal.art/addstickers/#pack_id=bbf76234c80ad262b6c0138d8471360b&pack_key=96ff07a9e0e58561dd69a749d734accdef924ad644a43f8464f35572236710ad
+    https://docs.google.com/spreadsheets/d/e/2PACX-1vQcswyRsctZtqhyCWQUcuXWNjsePFTT1AjZTHU7X0kV2MrW7h11b2Rlnx5gbUPs0hAmgYxzXKhP2nC6/pubhtml
   tags:
     - HK
     - Hong Kong
@@ -5743,7 +5743,7 @@ da1a3e38bda5922f2c6e96e04996a103:
 e14235f0f5f9c6c5f5389ad8c7ca1955:
   key: c658ba298261117efa32baba73005eac7e5e1aff55eebbc2a7a1bc674dc49494
   source: >-
-    https://signal.art/addstickers/#pack_id=e14235f0f5f9c6c5f5389ad8c7ca1955&pack_key=c658ba298261117efa32baba73005eac7e5e1aff55eebbc2a7a1bc674dc49494
+    https://docs.google.com/spreadsheets/d/e/2PACX-1vQcswyRsctZtqhyCWQUcuXWNjsePFTT1AjZTHU7X0kV2MrW7h11b2Rlnx5gbUPs0hAmgYxzXKhP2nC6/pubhtml
   tags:
     - HK
     - Hong Kong
@@ -7098,7 +7098,7 @@ f31218f783f2cf82a046b70a347e4d3e:
 57b755008882dfad44cf3b3104f48f0a:
   key: bab141ebb860011f0f12abeec75a7c228836da0812f9dbdafb47aa757b49c8ef
   source: >-
-    https://signal.art/addstickers/#pack_id=57b755008882dfad44cf3b3104f48f0a&pack_key=bab141ebb860011f0f12abeec75a7c228836da0812f9dbdafb47aa757b49c8ef
+    https://docs.google.com/spreadsheets/d/e/2PACX-1vQcswyRsctZtqhyCWQUcuXWNjsePFTT1AjZTHU7X0kV2MrW7h11b2Rlnx5gbUPs0hAmgYxzXKhP2nC6/pubhtml
   tags:
     - HK
     - Hong Kong
@@ -7766,7 +7766,7 @@ ae4b61d5d00152992d72b7bbc479a07d:
 9dcf7ab93562d14b3e4b683a3edc8f85:
   key: effd32ac53164bc2116f74d917436fe05afe3551df897b02792e40b5ef4d29a4
   source: >-
-    https://signal.art/addstickers/#pack_id=9dcf7ab93562d14b3e4b683a3edc8f85&pack_key=effd32ac53164bc2116f74d917436fe05afe3551df897b02792e40b5ef4d29a4
+    https://docs.google.com/spreadsheets/d/e/2PACX-1vQcswyRsctZtqhyCWQUcuXWNjsePFTT1AjZTHU7X0kV2MrW7h11b2Rlnx5gbUPs0hAmgYxzXKhP2nC6/pubhtml
   tags:
     - HK
     - Hong Kong
@@ -26559,24 +26559,6 @@ bd26b86c9f588f5ca223a4dc83683ac5:
     - мультсериал
     - Homer Simpson
 
-1a535d6a5f0daad8056523a7321931b4:
-  key: 90de81988dd74cc920baa2f1b02b5a9a7140bfda95702a11bc76fa61dd75e8d8
-  source: https://tlgrm.eu/stickers
-  tags:
-    - HomerStickers
-    - симпсоны
-    - TV
-    - Comic
-    - Cartoon
-    - мультик
-    - желтые
-    - гомер
-    - Simpsons
-    - yellow
-    - сериал
-    - Homer Simpson
-    - telegram
-
 fd960c914fe958ce8d058e4631973c9f:
   key: 7db94806739c37244efeb7ff9c0f54fcad12ee04dd46b7875bac3a2b30e6d5b8
   source: https://tlgrm.eu/stickers
@@ -29730,22 +29712,6 @@ f9205202cfcbf99a55a1d82c79e11940:
     - Bull & Bear
     - telegram
 
-ccb45b55daee71795ddbac25d8711c04:
-  key: aa69a0cc135efdccf7ea85c758a5605e01217efaf4c299f870a3e16847897fb3
-  source: https://tlgrm.eu/stickers
-  tags:
-    - Valerii Matiukhin
-    - BuddyBear
-    - telegram team
-    - bear
-    - cartoon
-    - forkids
-    - мультик
-    - медведь
-    - длядетей
-    - Winnie the Pooh
-    - telegram
-
 ed1b74dfb07917fb59005c969fc8e37c:
   key: 06f9ae9020de0ff265739fbae5a8d1a88187887fdeb2a56442b4be75365fd9da
   source: https://tlgrm.eu/stickers
@@ -29877,28 +29843,6 @@ bd237b48d187532a24e55c2b355ea3ae:
     - TV series
     - heroes
     - Breaking Bad
-    - telegram
-
-0210c780e6852f59e24f537a371efedd:
-  key: 47f0bee0d478a49e09e089424ce3d1b1401a34122100e0dc5523714d675487d2
-  source: https://tlgrm.eu/stickers
-  tags:
-    - Анна Шумская
-    - BoyWhoLived
-    - фильм
-    - гарри поттер
-    - кино
-    - книги
-    - сказка
-    - для детей
-    - harry potter
-    - movies
-    - books
-    - fairy tale
-    - for children
-    - forkids
-    - telegram team
-    - Harry Potter
     - telegram
 
 ca3aa6e841558a8b08aff21b95964994:
