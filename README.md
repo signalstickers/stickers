@@ -58,19 +58,24 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Therealzz"><img src="https://avatars.githubusercontent.com/u/45063024?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Therealzz</b></sub></a><br /><a href="#content-Therealzz" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/guineapigteddy"><img src="https://avatars.githubusercontent.com/u/77782568?v=4?s=42" width="42px;" alt=""/><br /><sub><b>guineapigteddy</b></sub></a><br /><a href="#content-guineapigteddy" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/adbridgehk"><img src="https://avatars.githubusercontent.com/u/77728961?v=4?s=42" width="42px;" alt=""/><br /><sub><b>adbridgehk</b></sub></a><br /><a href="#content-adbridgehk" title="Content">🖋</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/UU822"><img src="https://avatars.githubusercontent.com/u/77533769?v=4?s=42" width="42px;" alt=""/><br /><sub><b>UU822</b></sub></a><br /><a href="#content-UU822" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/brucerusso"><img src="https://avatars.githubusercontent.com/u/77784857?v=4?s=42" width="42px;" alt=""/><br /><sub><b>brucerusso</b></sub></a><br /><a href="#content-brucerusso" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/hasjahsjahksj"><img src="https://avatars.githubusercontent.com/u/45498561?v=4?s=42" width="42px;" alt=""/><br /><sub><b>hasjahsjahksj</b></sub></a><br /><a href="#content-hasjahsjahksj" title="Content">🖋</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/Small-Ku"><img src="https://avatars.githubusercontent.com/u/16464896?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Small_Ku</b></sub></a><br /><a href="#content-Small-Ku" title="Content">🖋</a></td>
     <td align="center"><a href="http://code.lockszmith.com"><img src="https://avatars.githubusercontent.com/u/905716?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Gal Szkolnik</b></sub></a><br /><a href="#content-Lockszmith" title="Content">🖋</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/sheepwhatwhat"><img src="https://avatars.githubusercontent.com/u/25843403?v=4?s=42" width="42px;" alt=""/><br /><sub><b>sheepwhatwhat</b></sub></a><br /><a href="#content-sheepwhatwhat" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/hyjos"><img src="https://avatars.githubusercontent.com/u/77371074?v=4?s=42" width="42px;" alt=""/><br /><sub><b>hyjos</b></sub></a><br /><a href="#content-hyjos" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/rUtWijPatil"><img src="https://avatars.githubusercontent.com/u/66948438?v=4?s=42" width="42px;" alt=""/><br /><sub><b>rUtWijPatil</b></sub></a><br /><a href="#content-rUtWijPatil" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/3grepocok"><img src="https://avatars.githubusercontent.com/u/77389259?v=4?s=42" width="42px;" alt=""/><br /><sub><b>3grepocok</b></sub></a><br /><a href="#content-3grepocok" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/telecasticsushi"><img src="https://avatars.githubusercontent.com/u/77458119?v=4?s=42" width="42px;" alt=""/><br /><sub><b>telecasticsushi</b></sub></a><br /><a href="#content-telecasticsushi" title="Content">🖋</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/teynav"><img src="https://avatars.githubusercontent.com/u/40721108?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Navneet Vikram Tey</b></sub></a><br /><a href="#content-teynav" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/syntext"><img src="https://avatars.githubusercontent.com/u/3652855?v=4?s=42" width="42px;" alt=""/><br /><sub><b>syntext</b></sub></a><br /><a href="#content-syntext" title="Content">🖋</a></td>
   </tr>
 </table>
 
