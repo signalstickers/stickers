@@ -23,6 +23,17 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+74a217b0dcf9bf61ad89ac55c5f3ed58:
+  key: d2e2df9036f20d157f530aa85b76ff453b5217bb1a4d04969c1d582aedd3452f
+  source: TMO
+  tags:
+    - KakaoFriends
+    - Kakao
+    - Ryan
+    - HKG
+    - Animated
+  animated: true
+
 ffdd9e8ec5dc149aef15aadd38789643:
   key: 5508033752beca5ce1cdf3de8c3039f263c167e594a9748c40c04d707bed188b
   source: 'William Frohn, Google - https://williamfrohn.com/Google-Bring-Back-the-Blobs-Stickers'
