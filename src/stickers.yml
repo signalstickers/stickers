@@ -23,6 +23,16 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+585a3de08e7c5f7764ab523719cdc0c7:
+  key: 06b1cc4817370ad424564b9d695f58e5fb4fba4ff57ff25f427ce89509fe5740
+  source: SEGA
+  tags:
+    - animated
+    - sonic
+    - sega
+    - video games
+  animated: true
+
 ffdd9e8ec5dc149aef15aadd38789643:
   key: 5508033752beca5ce1cdf3de8c3039f263c167e594a9748c40c04d707bed188b
   source: 'William Frohn, Google - https://williamfrohn.com/Google-Bring-Back-the-Blobs-Stickers'
