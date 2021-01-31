@@ -41,9 +41,10 @@
     "@types/is-ci": "^2.0.0",
     "@types/js-yaml": "^4.0.0",
     "@types/progress": "^2.0.3",
-    "@types/ramda": "^0.27.34",
+    "@types/ramda": "^0.27.36",
     "ajv": "^7.0.3",
     "ajv-errors": "^2.0.0",
+    "axios": "^0.21.1",
     "better-ajv-errors": "^0.7.0",
     "bytes": "^3.1.0",
     "fs-extra": "^9.1.0",
@@ -52,7 +53,7 @@
     "jest-expect-message": "^1.0.2",
     "js-yaml": "^4.0.0",
     "p-queue": "^6.6.2",
-    "p-retry": "^4.2.0",
+    "p-retry": "^4.3.0",
     "progress": "^2.0.3",
     "ramda": "^0.27.1"
   }
