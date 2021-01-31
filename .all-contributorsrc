@@ -186,6 +186,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "lutoma",
+      "name": "Lukas Martini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179393?v=4",
+      "profile": "https://lutoma.org",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 5,
