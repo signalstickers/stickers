@@ -186,6 +186,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "fluffykins",
+      "name": "fluffykins",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36739808?v=4",
+      "profile": "https://github.com/Fluffykins",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 5,
