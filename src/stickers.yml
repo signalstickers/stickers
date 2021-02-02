@@ -23,6 +23,15 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+05578a8fac15a9c787ef1f6ba3589095:
+  key: fb393194f32a38db7a49fc59d0cbfcec6ef50455a7806d98096f4cf023928d12
+  source: 'https://twitter.com/Ieaguedj'
+  tags:
+    - patisserie
+    - pastry
+    - sugar
+  original: true
+
 93358e2dfdb323f8bfefb4ee520dd665:
   key: 3ff48475517563f9d2e7999766c8ed55bac0f9d3b032e2b3b8c52b0145b882bf
   source: 'https://securityplanner.consumerreports.org/'
@@ -194,21 +203,29 @@ ad4113f81ffc2952a4488c0f1ff6c034:
     - Guy Behind The Desk
     - desk guy
 
-951f7cb843fab7d25acc5be811735b92:
-  key: b6fece29a00eb3812a28b68ac1fa9897aba22541d4d840c46fc6238b6a13f19c
+d2b0933bc1af6c6b18b4902407e5874d:
+  key: 2ed5e4104c72c446c2e80250ff268ee0e3537dd955cc6c1f96add2f962f88c1f
   source: 'https://ko-fi.com/snickerduu'
   tags:
-    - Wolf Link
-    - Legend of Zelda
-    - Gamecube
-    - Wii
-    - Nintendo
-    - Video game
+    - wolf
+    - link
+    - wolf link
     - cute
     - chibi
-    - Twilight Princess
-    - hand drawn
-  original: true
+    - legend
+    - zelda
+    - twilight
+    - princess
+    - legend of zelda
+    - twilight princess
+    - video game
+    - video games
+    - nintendo
+    - gamecube
+    - wii
+    - small
+    - '128'
+    - 128x128
 
 585a3de08e7c5f7764ab523719cdc0c7:
   key: 06b1cc4817370ad424564b9d695f58e5fb4fba4ff57ff25f427ce89509fe5740
