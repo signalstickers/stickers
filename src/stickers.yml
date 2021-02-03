@@ -23,6 +23,12 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+9062ee193b3c6c76e2fc99087599c02e:
+  key: d17ee2b690db1cbbd30f3e4c75365581469c5cc64b0f7f55c0c09543a8334417
+  tags:
+    - Street Cat
+    - Funny
+
 05578a8fac15a9c787ef1f6ba3589095:
   key: fb393194f32a38db7a49fc59d0cbfcec6ef50455a7806d98096f4cf023928d12
   source: 'https://twitter.com/Ieaguedj'
@@ -14121,7 +14127,8 @@ cca32f5b905208b7d0f1e17f23fdc185:
 d458f38e9087d2683cbe3019cfdf71ad:
   key: 5069a67f93b8099034cc7db5b9f96dc5298b1926e18d5c6310744602c1c62aa9
   tags:
-    - sesame street
+    - sesame 
+   
     - for children
 
 c4c2a3328a9a5f95a07fda783953e93e:
