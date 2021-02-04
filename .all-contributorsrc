@@ -204,6 +204,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "b-bartok",
+      "name": "b-bartok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78488390?v=4",
+      "profile": "https://github.com/b-bartok",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 5,
