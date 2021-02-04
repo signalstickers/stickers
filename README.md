@@ -82,6 +82,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://lutoma.org"><img src="https://avatars.githubusercontent.com/u/179393?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Lukas Martini</b></sub></a><br /><a href="#content-lutoma" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/MrBananaLord"><img src="https://avatars.githubusercontent.com/u/2443347?v=4?s=42" width="42px;" alt=""/><br /><sub><b>MrBananaLord</b></sub></a><br /><a href="#content-MrBananaLord" title="Content">🖋</a></td>
   </tr>
 </table>
 
