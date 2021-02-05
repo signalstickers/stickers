@@ -23,6 +23,15 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+2e43b57cf03eb139bb44242007a90c54:
+  key: d33e8cab3abce371249f983c334747df50c955728cc86afae4473181a3e7bf2d
+  source: 'https://cultofthepartyparrot.com/'
+  tags:
+    - parrot
+    - cult
+    - party
+  animated: true
+
 7b0787d26bc644a41c7bd385e227eeb6:
   key: b3486b63606d0b354de403d84313f0c020743b33ec0b93513874f3b1cb4b59ca
   source: 'URA 市區重建局'
