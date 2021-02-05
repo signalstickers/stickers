@@ -23,6 +23,16 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+d9ae4ca540a80a00843660854e6130d2:
+  key: 2fbaca0cc629867457ee25e457edce223f10d39fc442a70958562f4048023304
+  source: 'https://cultofthepartyparrot.com/'
+  tags:
+    - parrot
+    - cult
+    - party
+  nsfw: false
+  animated: true
+
 9062ee193b3c6c76e2fc99087599c02e:
   key: d17ee2b690db1cbbd30f3e4c75365581469c5cc64b0f7f55c0c09543a8334417
   tags:
