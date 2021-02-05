@@ -23,6 +23,69 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+7b0787d26bc644a41c7bd385e227eeb6:
+  key: b3486b63606d0b354de403d84313f0c020743b33ec0b93513874f3b1cb4b59ca
+  source: 'URA 市區重建局'
+  tags:
+    - CNY
+    - '2021'
+    - HK
+    - Hong Kong
+    - URA
+  original: true
+  animated: true
+
+454c9260073dc940fd6e0ffa0a8962d5:
+  key: f33ecf08caacc1e7a92cc78b362a72484bfae60f7d52de368def7bb82f6bd3e8
+  source: 'View-in Creative Ltd.'
+  tags:
+    - ChineseNewYear
+    - Viewincreative
+    - HongKong
+    - HK
+    - Cute
+    - Marketer
+    - Agency
+    - Office
+    - Work
+  original: true
+
+c3d1caaefa3ed22ab38c3548a992523c:
+  key: c140c0ebbbcc3025064d564dba1c3c9a2ae4c7e06ef2a2d021da3f9abb42c520
+  source: '#蝦毛 I.T. 醫生 / HAMO / くまモン'
+  tags:
+    - '手機女孩'
+    - Mobile Girl
+    - MiM
+  animated: true
+
+a369fc0122c9d90f7a957d1a59236b5a:
+  key: d563f5a96a6f29189677f0a99e983d7b3f5db152177586aeb8c20c88664ae556
+  source: 'https://twitch.tv/Geruhn'
+  tags:
+    - red panda
+    - animal
+    - cute
+    - Geruhn
+    - red
+    - panda
+    - streamer
+  original: true
+
+5f8a49138d91a73c30de0dbeedbb9867:
+  key: 8c247c35a053b6c488707065c4e49adcfd3c0fcb3dea00b7cd1c1c588f2c6254
+  source: Carey Hsie – www.careyhk.com
+  tags:
+    - JESUS
+    - God
+    - Gospel
+    - Christian
+    - I Love Jesus
+    - Carey Hsie
+    - Bless
+    - Chinese New Year
+  original: true
+
 9062ee193b3c6c76e2fc99087599c02e:
   key: d17ee2b690db1cbbd30f3e4c75365581469c5cc64b0f7f55c0c09543a8334417
   tags:
@@ -11580,15 +11643,6 @@ fe9982e4da736709c26091cea5532d6a:
     - trash dove
     - facebook
     - messenger
-    - animated
-  animated: true
-
-b617947035cd8c32b587c6b479fe018a:
-  key: cdd0b0dbe95bafc4f9d32954cf825b7d34506dadb6fdf08f762a024012a3b0d8
-  source: signalstickers.com
-  tags:
-    - party parrot
-    - meme
     - animated
   animated: true
 
