@@ -23,6 +23,58 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+ccd66811e303656609f96127c756ccfa:
+  key: b4ac942046c85a48baa2239e627886695af86795d609e707a730e3585a66073d
+  source: Yara
+  tags:
+    - bugcat
+    - capoo
+    - tutu
+  animated: true
+
+6834269ab8de50b55acdfd90bbdf9bd2:
+  key: 2e49bad58d01b207ceff57bf70b7936774709c26de99fa8db72b437c05984ed2
+  source: Yara
+  tags:
+    - bugcat
+    - capoo
+    - tutu
+  animated: true
+
+0207582fe8b7afd0b365be538acebd29:
+  key: 54c91a4e1433c712c31948f326a1924da719ad474bca439b59cbfb61ce79af44
+  source: Yara
+  tags:
+    - bugcat
+    - capoo
+  animated: true
+
+85a520f0449ae73d7dd1a6073340b5a7:
+  key: e2ae7c17c7de078d2c72b033a356e142704a1ba2bfcd6afb2968d4d473a40350
+  source: Yara
+  tags:
+    - bugcat
+    - capoo
+  animated: true
+
+e6dfc8451e9fbab3ea1b5dda2e67275b:
+  key: 93700c8dfe80ce5fe1a4c035388a014749db8b7d5a98ee73c5217e2a0ec6a725
+  source: Yara
+  tags:
+    - bugcat
+    - capoo
+    - tutu
+  animated: true
+
+5fd3e5c4a3c02c406119257486f58ba1:
+  key: 9fb9a65c1cbc69f86e60628770fdbd1ce72d055192f219780e40c677f376cef9
+  source: Yara
+  tags:
+    - bugcat
+    - capoo
+    - dogdog
+  animated: true
+
 73a662e5754ee419fb014060d2e8399a:
   key: 22f55198a0359a062638501ed8209b818493c98d95f146724b3f6d956fe23785
   source: 'https://twitter.com/BubbleBerryInk/status/1357044921534971907'
