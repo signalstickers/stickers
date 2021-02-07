@@ -23,6 +23,27 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+22887aef98e9436a7cb475bd8bc87a83:
+  key: be01cfa03911c52a10100959413ba2bdcea1dd3c4083bd3e1d2026f7c838b884
+  source: TMO
+  tags:
+    - TheGreedofMan
+    - AdamCheng
+    - SeanLau
+    - HKG
+    - Animated
+  animated: true
+
+0f959fef7850e56a56ef617cb2c80c4c:
+  key: 46dcf407694582b0dd07dbc5cfad3ab5dcca53b73050561a308cf15c66d6c30a
+  source: TMO
+  tags:
+    - ShinChan
+    - CrayonShinChan
+    - HKG
+    - Animated
+  animated: true
+
 73a662e5754ee419fb014060d2e8399a:
   key: 22f55198a0359a062638501ed8209b818493c98d95f146724b3f6d956fe23785
   source: 'https://twitter.com/BubbleBerryInk/status/1357044921534971907'
