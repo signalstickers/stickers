@@ -23,6 +23,19 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+a4075a1444257cf51ece82d94e194218:
+  key: 3fbb2d9ea0e175f4980bf91e613827dc6c02ac3c3c6c2fe48336bb927e651ee1
+  tags:
+    - commodore
+    - retro
+    - computer
+    - pixel
+    - game
+    - animated
+    - sprites
+    - 8 bit
+  animated: true
+
 73a662e5754ee419fb014060d2e8399a:
   key: 22f55198a0359a062638501ed8209b818493c98d95f146724b3f6d956fe23785
   source: 'https://twitter.com/BubbleBerryInk/status/1357044921534971907'
