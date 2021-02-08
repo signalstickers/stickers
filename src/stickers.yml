@@ -23,6 +23,23 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+55244c7678fe52e9e40235d6725d2a4d:
+  key: 15f4e82d803edc05d45891cb3e5f68b47bf359909cb885c9f8deff828f71dc89
+  source: 'twitter: @slweeb • r74n.com/moji'
+  tags:
+    - emoji
+    - emote
+    - emoticon
+    - emotes
+    - emoticons
+    - emojis
+    - faces
+    - emotions
+    - r74n
+    - slweeb
+  nsfw: false
+  original: true
+
 73a662e5754ee419fb014060d2e8399a:
   key: 22f55198a0359a062638501ed8209b818493c98d95f146724b3f6d956fe23785
   source: 'https://twitter.com/BubbleBerryInk/status/1357044921534971907'
