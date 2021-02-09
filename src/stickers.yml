@@ -23,6 +23,21 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+69c5d18cb19e35e9f261dac08617df62:
+  key: 70b0348928538ac749b729d2ff0e80036e5fdb9f7eac1adedfb6efb513a3a9e4
+  source: Deltapath
+  tags:
+    - CNY
+    - Chinese New Year
+    - Lunar New Year
+    - Year of the Ox
+    - Ox
+    - Valentines Day
+    - Hong Kong
+    - HK
+    - 2021
+  original: true
+
 73a662e5754ee419fb014060d2e8399a:
   key: 22f55198a0359a062638501ed8209b818493c98d95f146724b3f6d956fe23785
   source: 'https://twitter.com/BubbleBerryInk/status/1357044921534971907'
