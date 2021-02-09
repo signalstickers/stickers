@@ -23,6 +23,25 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+5d1a331c06cfb2c6835b4c2b72a3107c:
+  key: 146dc7bcd768effc532d83ea906ddbfea99129d6683031eefffd51100318be28
+  source: 'https://twitter.com/schjlatah/status/1359060417432047616'
+  tags:
+    - Bigfoot
+  original: true
+
+09550c23d5659da398ad2b8aca4f8a58:
+  key: ed09edc24cdb7f37a3a94893f6e5c79bbabeb1511f221927341f3d411f0f7729
+  source: 'https://twitter.com/redflamingo7/status/1359168362065129490'
+  tags:
+    - mastodon
+    - fediverse
+    - deutschland
+    - tor
+    - gnu
+    - framasoft
+    - antifascist
+
 78d02ca4318508a76cb74b67c882b444:
   key: 35c6a4d71cf23d87ab88982b274d145951135f1db779718ccdad772bd5ec498c
   source: 'https://www.instagram.com/thewaterclown/'
