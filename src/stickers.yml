@@ -23,6 +23,17 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+788b8fb7078e38506ff24d2ff95383cf:
+  key: 3d45957167b2a4af0ad2932ae772ce93f603a67c2570d6f39c2dbb26e7fee84d
+  source: Walulis Daily
+  tags:
+    - walulis
+    - zensur
+    - uploadfilter
+    - censorship
+    - zebra
+
+
 20ede9fcca6d62c19170a19263a9ecb6:
   key: 8ca713ba1e09c298c8154eee155ad4f6aa7f2b67e6cf947204b667d716e718ce
   source: 'https://www.reddit.com/r/signal/comments/le5ihi/riposte_sticker_pack/'
