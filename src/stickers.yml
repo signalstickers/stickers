@@ -23,6 +23,145 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+61c649364ef7c6dca4d6a39d14a4da97:
+  key: d89a78d686331f65bfc45108178d1c31b5134e282712643606d1cfe0c6b9dabf
+  source: Telegram
+  tags:
+    - muffin
+    - food
+    - love
+  animated: true
+
+6b020aed7c6600337d0b4737186fb1f4:
+  key: 7ec2745ea1d745a4fb5cb86fd3a0972248686195e74fd82ba407149f185b4f47
+  source: Telegram
+  tags:
+    - shrimp
+    - animal
+    - water
+    - ocean
+  animated: true
+
+7b823fc37c15b5f92ebe7043f7aee12b:
+  key: 4f54c4a7c514a3fcf9ae0a5a253ed377b4a8946a0cd5a14d24cc6d1eed760960
+  source: Telegram
+  tags:
+    - cow
+    - animal
+    - love
+    - cute
+  animated: true
+
+587681cf5964c898741d757ef8b4a0ce:
+  key: 9f25d5f4612414933f308d3adb856459e7c17e809de62baceeb003db1395c55c
+  source: Telegram
+  tags:
+    - food
+    - cute
+    - love
+    - peach
+  animated: true
+
+0cc6d42f3f10d46d7b0d94f0ca8636e1:
+  key: 940fec36d6f393d649ffb1e01c3adbf5cdd0a38969e93ab535245f9864c92976
+  source: Telegram
+  tags:
+    - insect
+    - lamp
+    - wasps
+    - love
+    - animal
+  animated: true
+
+0055a0162e4c0620d239397fa51d77d9:
+  key: 14ab1eb8bf38fad24bd928edee323225a647f87fcd17869a94fb932160cd1f18
+  source: Telegram
+  tags:
+    - dog
+    - animal
+    - pet
+    - cute
+  animated: true
+
+ba7e29f5f863d0f1bf7f508092615e84:
+  key: e34dda61e36d5f6cd3f2433a196824028ab1993e782dd8c5e4f6150230c1c3eb
+  source: Telegram
+  tags:
+    - animal
+    - unicorn
+    - cute
+  animated: true
+
+a8965559cbd0b92d44e66c59de17b679:
+  key: 93b0c7d74b50c2d531e36e5424bff23f800825e77a9391c288d8f64de37dd1e2
+  source: Telegram
+  tags:
+    - santa
+    - christmas
+    - new year
+  animated: true
+
+6946d9d5fa89276fe6b1e2442670c368:
+  key: dd2d72c35e1068c777d4ee548c35a23119bb844cd9df1866bc6d46ad11c2797e
+  source: Telegram
+  tags:
+    - santa
+    - christmas
+    - new year
+    - animal
+    - rat
+  animated: true
+
+66da00c0d918be40ebef453d897f0600:
+  key: 72d4e75fd7ffff212e87377a2c1e5bde8a76351fa21c13a3f65ad2c6463a1257
+  source: Telegram
+  tags:
+    - snow
+    - winter
+    - snowman
+  animated: true
+
+3263c1f8c723556020356d11b157a546:
+  key: 862a95f5ccafa0e73eaf7d6aaf695d80174b3880463bd908486075ffd3941114
+  source: Telegram
+  tags:
+    - cat
+    - cupid
+    - love
+    - valentine
+  animated: true
+
+570907aa947dbdeae184f6b092c62836:
+  key: 6f8bd24f0781481009869b68ed155ffea967219fa55aabe0fee86128aff7c1d4
+  source: Telegram
+  tags:
+    - couple
+    - duo
+    - valentine
+    - together
+  animated: true
+
+86135373af2e5d49a929368bb2fe71d1:
+  key: 2284a30606bd969c8e7ab4e3143ee8d75c2817c9db76797775724c9447688966
+  source: Telegram
+  tags:
+    - bird
+    - animal
+    - valentine
+    - couple
+  animated: true
+
+d8d34a6a81ee4b94438c35d25b18eb82:
+  key: 81dbb2e41f149555c90d0cbe8531c1d5a4b0604755cc4be88b9e28050dc3ce7d
+  source: Telegram
+  tags:
+    - mice
+    - valentine
+    - love
+    - cute
+    - animal
+  animated: true
+
 20ede9fcca6d62c19170a19263a9ecb6:
   key: 8ca713ba1e09c298c8154eee155ad4f6aa7f2b67e6cf947204b667d716e718ce
   source: 'https://www.reddit.com/r/signal/comments/le5ihi/riposte_sticker_pack/'
