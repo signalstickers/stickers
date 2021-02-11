@@ -85,6 +85,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/MrBananaLord"><img src="https://avatars.githubusercontent.com/u/2443347?v=4?s=42" width="42px;" alt=""/><br /><sub><b>MrBananaLord</b></sub></a><br /><a href="#content-MrBananaLord" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/b-bartok"><img src="https://avatars.githubusercontent.com/u/78488390?v=4?s=42" width="42px;" alt=""/><br /><sub><b>b-bartok</b></sub></a><br /><a href="#content-b-bartok" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/teamsarawat"><img src="https://avatars.githubusercontent.com/u/78021110?v=4?s=42" width="42px;" alt=""/><br /><sub><b>teamsarawat</b></sub></a><br /><a href="#content-teamsarawat" title="Content">🖋</a></td>
+    <td align="center"><a href="http://trtmn.com"><img src="https://avatars.githubusercontent.com/u/1972243?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Matt Troutman</b></sub></a><br /><a href="#content-trtmn" title="Content">🖋</a></td>
   </tr>
 </table>
 
