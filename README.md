@@ -17,12 +17,12 @@ If you're here to add a sticker pack to the directory, we suggest you use our
 [Contribute form](https://signalstickers.com/contribute) to generate the
 information we will need from you. Upon completion of that form, you'll be
 brought to this repository where you can submit your updates to
-[`stickers.yml`](https://github.com/signalstickers/stickers/blob/master/src/stickers.yml).
+[`stickers.yml`](src/stickers.yml).
 
 If you would like to be included in our list of contributors (which we
-encourage!) you'll need to add the text
+encourage!) you'll need to personalize and add the following text
 
-`@all-contributors add @your-github-username-here for content`
+```@all-contributors add @YOUR-GITHUB-USERNAME for content```
 
 to to your Pull Request's description. For example:
 
