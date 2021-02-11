@@ -22,7 +22,14 @@
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
-
+49d84e8ef29ccf68c2dc17ad37a69040:
+  key: aef5d9c0f53ced68c96d3c6a04212c4930ac1a43e92f822af5e535906031d345
+  source: 'https://store.line.me/stickershop/product/6366387/en'
+  tags:
+    - Cute
+    - cat
+    - kitten
+    - heartwarming
 20ede9fcca6d62c19170a19263a9ecb6:
   key: 8ca713ba1e09c298c8154eee155ad4f6aa7f2b67e6cf947204b667d716e718ce
   source: 'https://www.reddit.com/r/signal/comments/le5ihi/riposte_sticker_pack/'
