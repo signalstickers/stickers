@@ -30,6 +30,22 @@ to to your Pull Request's description. For example:
   <img src="https://user-images.githubusercontent.com/441546/105504598-cf62f080-5c7c-11eb-9611-f54599fdea66.png" style="max-width: 60%;" />
 </p>
 
+
+### Contribution guidelines
+We reserve the right to moderate and refuse packs or stickers. In particular:
++ Stickers packs that call for hatred or violence against people or communities
+  based on age, body size, disability, ethnicity, gender identity and
+  expression, nationality, personal appearance, race, religion, or sexual
+  identity and orientation;
++ Sticker packs that directly promote a brand or a company.
+
+We also reserve the right to moderate packs or stickers after their submission
+and acceptance.
+
+The idea is to keep a family atmosphere: I'd like my grandmother to be able to
+navigate sticker packs quietly.
+
+
 ## License & Usage
 
 Under no circumstances shall the data contained in `stickers.yml` (or its
