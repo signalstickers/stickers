@@ -222,6 +222,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "trtmn",
+      "name": "Matt Troutman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1972243?v=4",
+      "profile": "http://trtmn.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 5,
