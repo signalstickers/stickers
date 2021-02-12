@@ -22,6 +22,20 @@
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+5a262d0c4df664d479bfbc0565904a17:
+  key: 868e2b259b4633f6f6b389650bce1f71c7c058f6b0aa3ea38ec7d034c5d0b9e1
+  source: OsmerOmar (telegram)
+  tags:
+    - Looney Tunes
+    - Funny
+
+0579b670e614655714eddf19c0d77aa8:
+  key: 44a6f5c57cd2ceb05c80af4e0b0879151fd7b8672a3838324a214b47b79a1648
+  source: telegram
+  tags:
+    - Sigmund Freud
+  nsfw: true
+
 87a28ade2853c757b770b817ab74880b:
   key: b04f46dd04800051360473bc3162d5581db2226bc4aa78a137e1da33f4b0f446
   source: telegram
