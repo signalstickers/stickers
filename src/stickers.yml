@@ -21,7 +21,14 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+759b7b13c97467bde4844e1184c2cb5e:
+  key: 6020689775b8468687687565a61a5114b00bbce46a02eab18ccb516404e89f6e
+  tags:
+    - 'NFL Football Teams'
+
+  source: 'https://t.me/addstickers/NFLogos'
+-------
 
 c6628a96c5987a895562acfa98cba244:
   key: 0112ef05536e48ed285cf25ba73a82920a195c44170557fbc0ec52c64036b39f
