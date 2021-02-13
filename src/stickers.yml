@@ -21,7 +21,11 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+78a018a17ce7142d42499ec3045a795e:
+  key: 73f9148450f31e5502fd9089970f92732ec1177164d34f94376234aea91d6705
+  source: 'https://telegram.dog/addstickers/PinkPus'
+-------
 
 c6628a96c5987a895562acfa98cba244:
   key: 0112ef05536e48ed285cf25ba73a82920a195c44170557fbc0ec52c64036b39f
