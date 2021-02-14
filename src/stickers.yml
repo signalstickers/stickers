@@ -21,7 +21,12 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+8ff52e57b7c209a94eeff12abf83b8dc:
+  key: 6d197629684aaae0a3304156e6d7b96f591a1337344975f8d64af8cb7e22c005
+  source: 'https://t.me/addstickers/spa65b998bcab89'
+  nsfw: true
+-------
 
 cd4dbeee3cd190ce6e877df41ce0e550:
   key: 8bf096db7e91bbd0c5de67f3367cf5305972c312b42aff93838b8926acceb2d1
