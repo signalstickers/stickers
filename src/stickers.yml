@@ -23,6 +23,38 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+cd4dbeee3cd190ce6e877df41ce0e550:
+  key: 8bf096db7e91bbd0c5de67f3367cf5305972c312b42aff93838b8926acceb2d1
+  source: 秘密結社ジャバ組
+  tags:
+    - java
+    - notjava
+    - download
+    - japanese
+  original: true
+
+87a28ade2853c757b770b817ab74880b:
+  key: b04f46dd04800051360473bc3162d5581db2226bc4aa78a137e1da33f4b0f446
+  source: telegram
+  tags:
+    - Famous Characters
+
+7de0735e6d9df3eecdc1b52504cf9742:
+  key: d1120703e7ff26198e079b4f4cf595a2238eb767629427dd0fd0cacee9e2dbd6
+  source: stickerbolt
+  tags:
+    - Mirzapur 2
+    - funny
+    - hindi
+    - emoji
+  nsfw: true
+
+759b7b13c97467bde4844e1184c2cb5e:
+  key: 6020689775b8468687687565a61a5114b00bbce46a02eab18ccb516404e89f6e
+  tags:
+    - 'NFL Football Teams'
+  source: 'https://t.me/addstickers/NFLogos'
+
 c6628a96c5987a895562acfa98cba244:
   key: 0112ef05536e48ed285cf25ba73a82920a195c44170557fbc0ec52c64036b39f
   source: 'https://twitter.com/Demons_Home/status/1359961867993575424'
