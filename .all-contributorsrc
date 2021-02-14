@@ -240,6 +240,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "tomari",
+      "name": "tomari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1059211?v=4",
+      "profile": "https://www.okqubit.net/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 5,
