@@ -23,6 +23,13 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+f5877bd6865b1dc73c7bda35e985c425:
+  key: 23a9f87de6d0102dacdd486eb72a17239937684e1d6af7303576034df026e253
+  source: 'https://line.me/S/sticker/3049778?lang=zh-Hant&ref=lsh_stickerDetail'
+  tags:
+    - Pug dog
+  animated: true
+
 33fea1a197806d45df900df6128008f7:
   key: a1c35dc58a16668ef0aa74c877ccedd66c51eb4050125ed6156cb31884c5ac39
   source: Óscar Ospina
