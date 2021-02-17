@@ -33068,5 +33068,15 @@ ae1d343accdec586fe19954a6be7aee9:
     - cat
     - meme
     - cat meme
+    
+e8dd49a52376c960c9290976a5461cc9:
+  key: 6113783092ecd38e38d99be739f3fbb9c4f95863555fb35a9d5b9fff6b4b61e5
+  source: '熊本熊 Kumamon くまモン #02'
+  tags:
+    - 熊本熊
+    - Animated
+    - Kumamon
+    - くまモン
+  animated: true    
 
 # ------------ ⬆︎ PLEASE ADD NEW ENTRIES AT THE TOP OF THIS FILE ⬆︎ -------------
