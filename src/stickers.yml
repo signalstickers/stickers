@@ -23,6 +23,18 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+339581e65023b5ed1a37d93abb34166a:
+  key: b428bd154eba5c63ffd85f81921f59c0583cc865e880225818cd9ba0d1734cd3
+  source: moVRs sticker from Twitch.
+  tags:
+    - twitch
+    - movrs
+    - ttv
+    - cat
+    - astronaut
+    - space
+  original: true
+
 33fea1a197806d45df900df6128008f7:
   key: a1c35dc58a16668ef0aa74c877ccedd66c51eb4050125ed6156cb31884c5ac39
   source: Óscar Ospina
