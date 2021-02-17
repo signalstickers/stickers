@@ -21,7 +21,16 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+9af6276b5d5f8bbff92d098b3ac08a27:
+  key: 994ad3199dde287d4b9ba63d0d7bcc385b09efdb66233643c2969a09f114a307
+  tags:
+    - 'Anime'
+    - 'The Squid Girl'
+    - 'Shinryaku Ika Musume'
+
+  source: 'https://t.me/addstickers/SIMIkaMusume'
+-------
 
 33fea1a197806d45df900df6128008f7:
   key: a1c35dc58a16668ef0aa74c877ccedd66c51eb4050125ed6156cb31884c5ac39
