@@ -21,7 +21,17 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+64cfaf7d19fc693d8770ebdd0307836a:
+  key: ee03c2d7648ea91d19d609e3127615cebd74c3ebc9ba326aadcc65ef832b2feb
+  tags:
+    - 'NSFW'
+    - 'Lewd'
+    - 'Anime'
+
+  source: 'https://t.me/addstickers/NordsLewdPack'
+  nsfw: true
+-------
 
 33fea1a197806d45df900df6128008f7:
   key: a1c35dc58a16668ef0aa74c877ccedd66c51eb4050125ed6156cb31884c5ac39
