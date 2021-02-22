@@ -22,6 +22,20 @@
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+a69b5beffd08a10a74694681632e4cda:
+  key: 79dbca635f2ddcc2788c8d8bbbd44b4fd614e5df18fde69db2413a0ceeb9309f
+  source: 'CUHK medicine '
+  tags:
+    - med
+    - cu
+    - cuhk
+    - medic
+    - m21
+    - m22
+    - m23
+    - m24
+    - m25
+    - m26
 
 0f3bd5d7714d2e9447800344ff904423:
   key: db4ef0df6d1de6d24417e0e8d0b723c45504891ee5be5bceb7b3eeb76b8a467a
