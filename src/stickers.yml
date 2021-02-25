@@ -21,7 +21,14 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+97b4faa11d5a7777a6984c3a09af4171:
+  key: 9f945e12f679b91be4281fa2cc06c1759edf69179588c7b06f32687e982429ed
+  tags:
+    - 'TED Sticker Bears'
+
+  source: 'https://telegram.dog/addstickers/TedTheB'
+-------
 
 0f3bd5d7714d2e9447800344ff904423:
   key: db4ef0df6d1de6d24417e0e8d0b723c45504891ee5be5bceb7b3eeb76b8a467a
