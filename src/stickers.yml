@@ -21,7 +21,14 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+038447120b3af0171fbf7e621b0b8586:
+  key: 5f45b952bad6082c3aca8b10368155e9bf004355b3d72fcbd71c521bdab2cece
+  tags:
+    - 'Gentleman Bear Sticker'
+
+  source: 'https://t.me/addstickers/ToddBear'
+-------
 
 0f3bd5d7714d2e9447800344ff904423:
   key: db4ef0df6d1de6d24417e0e8d0b723c45504891ee5be5bceb7b3eeb76b8a467a
