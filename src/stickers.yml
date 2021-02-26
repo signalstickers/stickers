@@ -23,6 +23,17 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+e7a7cd5158e79414cc7b509a2dbfab41:
+  key: 995029d0fd5fe77194071ee9ccbc92ee255ba6556cd531b48aa1dac77fbb31d8
+  source: Deltapath
+  tags:
+    - birthday
+    - anniversary
+    - 20 years
+    - happy birthday
+    - happy anniversary
+  original: true
+
 0f3bd5d7714d2e9447800344ff904423:
   key: db4ef0df6d1de6d24417e0e8d0b723c45504891ee5be5bceb7b3eeb76b8a467a
   source: 'https://twitter.com/emojibzh/status/1362324765663522819'
