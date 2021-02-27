@@ -249,6 +249,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "code-IM-perfect",
+      "name": "Harshit Tomar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77197959?v=4",
+      "profile": "http://codeimperfect.ml",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 5,
