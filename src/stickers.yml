@@ -47,6 +47,30 @@ a7511a10f66c28fac9c6c3e465a7f49c:
   key: 59fde112797861ecae592ff666c7e9d33ce7bd97c10c24f40a7deef710d9ee97
   source: HKUMed
 
+82c3b34bec092f3b2d43b320cb68004d:
+  key: 80b47f95f0812f301ac092f9fa96cdb67d3948103b56ad21ad7f4e177dfecce8
+  tags:
+    - Neko and Mimi
+    - Neko
+    - Mimi
+    - Quan
+    - Quan Inc
+  animated: true
+
+2de3ab407eb6311ced68f7e8d9480c56:
+  key: b93ee267c14f7565fbc23c5b2dbbe663fe4cd164307e114b84d327f40286e420
+  source: 'https://twitter.com/eisnymphe/status/1364161667412627459'
+  tags:
+    - CLC
+    - Seunghee
+    - Yujin
+    - Seungyeon
+    - Sorn
+    - Yeeun
+    - Eunbean
+    - Eunbin
+  animated: true
+
 f326098ce45eb21c394e9f006f0b363f:
   key: 5988bd12a6918720550532c82e1c44240e853f752e892fd0fe1ce79699411302
   source: 'https://twitter.com/tuanacelik'
