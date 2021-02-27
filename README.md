@@ -107,6 +107,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/AmandaKline"><img src="https://avatars.githubusercontent.com/u/9940584?v=4?s=42" width="42px;" alt=""/><br /><sub><b>AmandaKline</b></sub></a><br /><a href="#content-AmandaKline" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.okqubit.net/"><img src="https://avatars.githubusercontent.com/u/1059211?v=4?s=42" width="42px;" alt=""/><br /><sub><b>tomari</b></sub></a><br /><a href="#content-tomari" title="Content">🖋</a></td>
+    <td align="center"><a href="http://codeimperfect.ml"><img src="https://avatars.githubusercontent.com/u/77197959?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Harshit Tomar</b></sub></a><br /><a href="#content-code-IM-perfect" title="Content">🖋</a></td>
   </tr>
 </table>
 
