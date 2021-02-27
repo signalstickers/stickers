@@ -47,6 +47,13 @@ a7511a10f66c28fac9c6c3e465a7f49c:
   key: 59fde112797861ecae592ff666c7e9d33ce7bd97c10c24f40a7deef710d9ee97
   source: HKUMed
 
+595ade347b8673502b88745821e59b09:
+  key: 16b26889b2a734b7351657418cb352436c2cf7efad0e2f57d9369262f55b510c
+  source: 'https://www.reddit.com/r/signal/comments/lqm39h/marvel_cinematic_universe/'
+  tags:
+    - mcu
+    - spiderman
+
 82c3b34bec092f3b2d43b320cb68004d:
   key: 80b47f95f0812f301ac092f9fa96cdb67d3948103b56ad21ad7f4e177dfecce8
   tags:
