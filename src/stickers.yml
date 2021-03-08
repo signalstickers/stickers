@@ -23,6 +23,14 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+9f9e537ba066afc157f0e6eefe825d5e:
+  key: 6e2a4aaf715ea3dc1a4ec4e6048574a16d26ab55c05a996aaa7d44f7b0128e46
+  source: '''https://twitter.com/tuanacelik'
+  tags:
+    - octo
+    - octopus
+  original: true
+
 0d050b4f81cad684e9a310f083c62dea:
   key: 895e0ba23cbaa4d52dc2ceb31e8b907a9f6226f9cfb70759b3d22ffd5d30bf3b
   source: 'https://yukatayuta.tumblr.com/ ,Twitter:@Karappo_de'
