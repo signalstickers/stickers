@@ -30,6 +30,30 @@
     - Character
   original: true
 
+e02a7ca1b0a22e7fcb288faffa77b961:
+  key: feeaf7f3ba5cb6bac0d2587346a2f81adfe9cf98563f5b68bb7ecee32769df97
+  source: 'https://twitter.com/Kyutori1/status/1367719797388021762'
+  animated: true
+
+688ee7f9e4debd665cb22b7cb95fb319:
+  key: 41230d3f2c17c0bea6a53adbd9d042906930e8d4ba90ab45258ea38deaf9da37
+  source: mct.camper
+  tags:
+    - camp
+    - camping
+    - hongkong
+    - campinghk
+    - cute
+    - fun
+    - deer
+    - hk
+  original: true
+
+bf4f45051dd1ae4b327cc864b53d6338:
+  key: 57655e6d8e1d4e7d95a5c606ad931cf5cafa03f9e0d3ac4591c179c21f355c17
+  tags:
+    - Pikmin
+
 7c58f8a1eab867b2f8f2929a4a2c390b:
   key: de4f9f261e8d30c0f3f2882cdbd288b6784a87808c1a26bb8f1e6553bb857ec1
   original: true
