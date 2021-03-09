@@ -23,6 +23,57 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+d3dc228a5a2b2312bf5cf701be254f5c:
+  key: 887c2d9cfa07b77473a1c18680aef047e4552da49e25a314c05227f9c7cfc65c
+  source: Deutsche Digitale Bibliothek
+  tags:
+    - art
+    - culture
+    - cultural heritage
+    - history
+    - germany
+    - animals
+  original: true
+
+2c867c174dd79e10eba4507189d7c759:
+  key: 558e1b2be5516c0509fc8b389978e40ad64eb24cd0bb060582b8a4266130a7c2
+  source: Deutsche Digitale Bibliothek
+  tags:
+    - art
+    - culture
+    - cultural heritage
+    - history
+    - germany
+    - japan
+    - edo
+    - mkg hamburg
+  original: true
+
+baad02adca8f4d611121bce24e83bbb0:
+  key: b73fb7172e1414746e6a8be44cfd5ac8642ca940395d60514a4f85c4db5512bb
+  source: Deutsche Digitale Bibliothek
+  tags:
+    - art
+    - culture
+    - cultural heritage
+    - history
+    - germany
+    - sun
+    - astrology
+    - astronomy
+  original: true
+
+afd4022698873f264fdbd7ddbed399f4:
+  key: fdd2992759162643e76cb7d8bf773db8a2db31edf8e84a4dab44e6c870a8ac71
+  source: Deutsche Digitale Bibliothek
+  tags:
+    - art
+    - culture
+    - cultural heritage
+    - history
+    - germany
+  original: true
+
 0d050b4f81cad684e9a310f083c62dea:
   key: 895e0ba23cbaa4d52dc2ceb31e8b907a9f6226f9cfb70759b3d22ffd5d30bf3b
   source: 'https://yukatayuta.tumblr.com/ ,Twitter:@Karappo_de'
