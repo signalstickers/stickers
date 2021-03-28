@@ -23,6 +23,16 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+e0157134f6d9197d3071078f2e7cc20b:
+  key: 84b16516fdfffe1c53283c710535055d8b5c2ade1fe5e1eec18557b7b7519d8b
+  source: 'https://www.zetland.dk/merek%C3%A6rlighed'
+  tags:
+    - merekaerlighed
+    - kaerlighed
+    - danmark
+    - dansk
+  animated: true
+
 661e2761782985d24abffed78d8405aa:
   key: e5219da55aa19af5c4f2ef7843ea4ba2a4a2445ecad8f6f953ab171a0b3e75ea
   source: Sephger feat. Popcat
