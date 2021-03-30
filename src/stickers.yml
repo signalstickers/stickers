@@ -23,6 +23,14 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+7a6b6126d176c273985a0fbea6537044:
+  key: 7a11afac37dc9c5db83d9fa3345f5bbd9f383e5489678dda719712c0ffeeff1f
+  source: Based on Chōjū-jinbutsu-giga scrolls from 12th and 13th-century Japan
+  tags:
+    - frog
+    - Japanese
+  original: true
+
 661e2761782985d24abffed78d8405aa:
   key: e5219da55aa19af5c4f2ef7843ea4ba2a4a2445ecad8f6f953ab171a0b3e75ea
   source: Sephger feat. Popcat
