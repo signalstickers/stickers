@@ -34312,5 +34312,38 @@ ae1d343accdec586fe19954a6be7aee9:
     - cat
     - meme
     - cat meme
+60dbd9ba6740a723172690b6d1e7a351:
+  key: 359780a06c9edcd80cf76b5efacbe78b18c3a54155e8da9c1881aa88203640a2
+  source: 'https://store.line.me/stickershop/product/4546/en'
+  tags:
+    - SpongeBob
+    - SquarePants
+    - Animated
+    - Nickelodeon
+  animated: true
+4309fd08b40edb34e8d946ce097cd061:
+  key: 6a754115ed5a0ae3414e7d05cfb789b0d3e7078519d60d41ad3bb3cd8a134013
+  source: 'https://store.line.me/stickershop/product/5789/en'
+  tags:
+    - Animated
+    - Pokemon
+    - Stickers
+  animated: true
+  e180d2e7a884e40d9796d5d7ad6d0b38:
+  key: def603dc9286eaaf6c1698776b440809be365b9818169fb3d5fbd3bbbf37e748
+  source: 'https://store.line.me/stickershop/product/10066/en'
+  tags:
+    - Legend
+    - Zelda
+    - Breath
+    - Wild
+  animated: true
+8a0be44ce35b81a2ddcfa5ff73a91043:
+  key: e5d85dbbbbc8e03200c23a80836a394ff30751b6cd61c6d4e44e528ea38c8bb4
+  source: 'https://store.line.me/stickershop/product/3111/en'
+  tags:
+    - Hello Kitty
+    - Sanrio
+  animated: true
 
 # ------------ ⬆︎ PLEASE ADD NEW ENTRIES AT THE TOP OF THIS FILE ⬆︎ -------------
