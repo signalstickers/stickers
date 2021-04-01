@@ -21,7 +21,15 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+a2f1566361a4ad83eda38f5e33ea912f:
+  key: 86dfa2f0228a7a262e8e8b42049e39c0c9d6cce390904c55dcc9b03b08585e32
+  tags:
+    - 'Plagouille'
+    - 'Pest doctor'
+
+  source: 'https://t.me/addstickers/JeanBaptistePla'
+-------
 
 661e2761782985d24abffed78d8405aa:
   key: e5219da55aa19af5c4f2ef7843ea4ba2a4a2445ecad8f6f953ab171a0b3e75ea
