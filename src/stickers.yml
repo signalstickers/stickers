@@ -21,7 +21,15 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+e9bb74eb6e666bded31783f785cb66e4:
+  key: d2774842ecaaa02485d177806e88acaead99689064133ded0640d5182dfbad85
+  tags:
+    - 'Plaque M. D.'
+    - 'Plague Doctor'
+
+  source: 'https://t.me/addstickers/PlagueMD'
+-------
 
 661e2761782985d24abffed78d8405aa:
   key: e5219da55aa19af5c4f2ef7843ea4ba2a4a2445ecad8f6f953ab171a0b3e75ea
