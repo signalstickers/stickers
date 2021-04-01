@@ -21,7 +21,17 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+cf6ed48ec262f2901f2554f221f545c4:
+  key: b87b373c54fdc8a35c97a0a12f86e91e970accd8cf5b8d50f144922d2661f676
+  tags:
+    - 'Go Baldy'
+    - 'Condom'
+    - 'Womanizer'
+
+  source: 'https://t.me/addstickers/BrotherhoodBald'
+  nsfw: true
+-------
 
 661e2761782985d24abffed78d8405aa:
   key: e5219da55aa19af5c4f2ef7843ea4ba2a4a2445ecad8f6f953ab171a0b3e75ea
