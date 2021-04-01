@@ -21,7 +21,16 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+6031748fbeed94d00e0f9f2b776c55c6:
+  key: 7766e9c5550a6c4283b27510b38fb467d5b3b8d8773b28be6f5de92e92ec46f8
+  tags:
+    - 'Darth Vader'
+    - 'Star Wars'
+    - 'Anakin Skywalker'
+
+  source: 'https://t.me/addstickers/ComeToTheDarkSi'
+-------
 
 661e2761782985d24abffed78d8405aa:
   key: e5219da55aa19af5c4f2ef7843ea4ba2a4a2445ecad8f6f953ab171a0b3e75ea
