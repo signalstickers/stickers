@@ -21,7 +21,17 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+951845fd857ec63ede94223b5732c956:
+  key: 08bad7475ca49971cd9ed78313b000d30990a0b2f894e5163cd574596449a66e
+  tags:
+    - 'Angela Merkel'
+    - 'Bundeskanzlerin'
+    - 'Politik'
+    - 'Deutschland'
+
+  source: 'https://telegram.dog/addstickers/MerkelP'
+-------
 
 661e2761782985d24abffed78d8405aa:
   key: e5219da55aa19af5c4f2ef7843ea4ba2a4a2445ecad8f6f953ab171a0b3e75ea
