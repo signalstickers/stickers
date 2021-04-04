@@ -23,6 +23,32 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+993f204575c0c312e6ae2bca72dcf593:
+  key: 4e176e98fb1662fa2452279748c77e3af48926dd5bfc1ece74c2a570266597f4
+  tags:
+    - bunny
+    - funny
+  original: true
+
+513f22a07c845d21a1a44bf7356c2c5a:
+  key: 633676cb0fd153880052c0314cf8508923e6de22028ad8fbf4ea9335b048fc81
+  source: 'https://twitter.com/Bolthier/status/1376583684422311936'
+  tags:
+    - league of legends
+    - LoL
+
+59d3387717104e38a67f838e7ad0208c:
+  key: 56af35841874d6fe82fa2085e8e5ed74dba5d187af007d3b4d8a3711dd722ad7
+  source: 'https://twitter.com/Tricerablue/status/1374033341436022784'
+  original: true
+
+82b76e7ee3efe0c044efa5f1be18d96c:
+  key: a1d5831aa253965d46e0d020c12ceca28b1c0564f5928088441af4132f81db54
+  source: 'https://twitter.com/RegulaSterchi/status/1376249529197080578'
+  tags:
+    - rat
+    - mouse
+
 be3a5fefca339d6e1eb1dee6abd3ada0:
   key: 09b7f29d63677f9237ce23d509d22d52535bbf993b9156f02ed5bd3d8e51791b
   source: 'https://www.zetland.dk/merek%C3%A6rlighed'
@@ -32,6 +58,17 @@ be3a5fefca339d6e1eb1dee6abd3ada0:
     - danmark
     - dansk
   animated: true
+
+3e0b182c60800ad933e40180fdbb7db0:
+  key: 4c40b6e04a370508d2210421a9f30362dbdde30bdf54e59c6aed878cd0874708
+  tags:
+    - avatar
+
+36d5e4e3f074a5bc798df8e310b9fc51:
+  key: c825017d17c3ceae7c2bfe150de7610a1e98a6620723b34b3d5430e4c5bb281b
+  tags:
+    - cat
+  original: true
 
 dcc9aacb1ad020bb2ca79df07f8bf133:
   key: 3439378335a0dba66030379bb1f905c306d7da69e411751ec5f4ad5500725cab
