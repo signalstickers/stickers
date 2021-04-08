@@ -23,6 +23,12 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+5cfe7b9481d17877c203795afd0beb8f:
+  key: 107293fe862bffb2eb1856b6d1da7229193ed6de6ca6f9a3b7c1b64bc2416fab
+  source: Telegram
+  tags:
+    - german
+
 993f204575c0c312e6ae2bca72dcf593:
   key: 4e176e98fb1662fa2452279748c77e3af48926dd5bfc1ece74c2a570266597f4
   tags:
