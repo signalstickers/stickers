@@ -23,6 +23,17 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+4c70c11f35b93f26c7666d1cf6873b22:
+  key: b2bb8eed2098c6de8b864bd9d616a2fcab3ef225a27b7a730725c25bc444c17a
+  source: 'https://store.line.me/officialaccount/event/sticker/19880/en'
+  tags:
+    - line friends
+    - line
+    - brown
+    - kensaku
+    - animated
+  animated: true
+
 993f204575c0c312e6ae2bca72dcf593:
   key: 4e176e98fb1662fa2452279748c77e3af48926dd5bfc1ece74c2a570266597f4
   tags:
