@@ -23,6 +23,54 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+52147b97033ed41f2b49bb4d04e7d2df:
+  key: 4a3b244bac56efa810be22390ce39d2c299d20a79d21adbae30b4c975ecd3fe9
+  source: 'https://twitter.com/Ieaguedj/status/1379424942656212995'
+  tags:
+    - patisserie
+    - pastry
+    - sugar
+  original: true
+
+8d7c881d84fe6e69836369919e729fb2:
+  key: 1ce99a259b9d626d01b509e098458fb5db6c81e6752a2a406e590ff51ec71946
+  source: 'https://twitter.com/bluastro_yellow/status/1382745503734104068'
+  tags:
+    - cat
+    - meme
+    - pop cat
+    - reaction
+  animated: true
+
+d26d6c3105e64f4b3f55c3afe8662f37:
+  key: 116e2acb5f91025300de5c003a1cf66f50dd9f3800cbe0979d169f18cef250ea
+  source: >-
+    https://old.reddit.com/r/LegendsOfRuneterra/comments/mq4270/ive_created_sticker_packs_for_signal_messenger/
+  tags:
+    - LoR
+    - Legends Of Runeterra
+  original: true
+  animated: true
+
+df8ed39c172879357ab4ec932dad449d:
+  key: b93844a333a5a8bbce9de9898770fa76d6a043f252e7dd2c4b73442e4b26687e
+  source: >-
+    https://old.reddit.com/r/LegendsOfRuneterra/comments/mq4270/ive_created_sticker_packs_for_signal_messenger/
+  tags:
+    - LoR
+    - Legends Of Runeterra
+  original: true
+
+b5ff807c05bfdb1abe3d5e6fdde3293a:
+  key: ce3b1eaf189d3a76d514f712e513aa7484dd88af845a75b20743958a63af6f94
+  tags:
+    - WSB
+    - hodl
+    - gamestop
+    - reddit
+    - wallstreetbets
+  original: true
+
 fc52c34b608f3b9e86e0b041980e34d8:
   key: f76fecfb35671cee43388bd4f8078b5c241e07dcb7c9bf8677655a214052b692
   source: zappingseb
@@ -2484,15 +2532,6 @@ a369fc0122c9d90f7a957d1a59236b5a:
     - banana
     - kingdom
     - mrbananalord
-  original: true
- 
-05578a8fac15a9c787ef1f6ba3589095:
-  key: fb393194f32a38db7a49fc59d0cbfcec6ef50455a7806d98096f4cf023928d12
-  source: 'https://twitter.com/Ieaguedj'
-  tags:
-    - patisserie
-    - pastry
-    - sugar
   original: true
 
 93358e2dfdb323f8bfefb4ee520dd665:
