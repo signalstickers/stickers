@@ -111,6 +111,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://azlux.fr/"><img src="https://avatars.githubusercontent.com/u/11210117?v=4?s=42" width="42px;" alt=""/><br /><sub><b>azlux</b></sub></a><br /><a href="#content-azlux" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Bliamoh"><img src="https://avatars.githubusercontent.com/u/10812088?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Bliamoh</b></sub></a><br /><a href="#content-Bliamoh" title="Content">🖋</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/MMMrowka"><img src="https://avatars.githubusercontent.com/u/46072461?v=4?s=42" width="42px;" alt=""/><br /><sub><b>MMMrowka</b></sub></a><br /><a href="#content-MMMrowka" title="Content">🖋</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
