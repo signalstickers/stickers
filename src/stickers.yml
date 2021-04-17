@@ -23,6 +23,49 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+3273093448c29f711eda842657b0e71e:
+  key: 8330cbaeaae44e587ea2a0fa4577240bd2aa423f6f600784e6e5a51cdca046aa
+  source: Yara
+  tags:
+    - bugcat
+    - capoo
+  animated: true
+
+8d7b8b8a73a19f4479e14fdba5b902fc:
+  key: 406f58b69929f6bc813e23d505ca98a98107ad3e8c288f59026233522cf6120f
+  source: 'https://store.line.me/stickershop/product/1702446/en'
+  tags:
+    - Neptunia
+    - Hyperdimension Neptunia
+    - Games
+    - Neptune
+    - '超次元ゲイム ネプテューヌ'
+    - 'ネプテューヌ'
+
+4c70c11f35b93f26c7666d1cf6873b22:
+  key: b2bb8eed2098c6de8b864bd9d616a2fcab3ef225a27b7a730725c25bc444c17a
+  source: 'https://store.line.me/officialaccount/event/sticker/19880/en'
+  tags:
+    - line friends
+    - line
+    - brown
+    - kensaku
+    - animated
+  animated: true
+
+ec379ae940881c55278fda09dfeafed5:
+  key: 89759669df39ae38bf6c49ca35a52ba1470559bfda1ffc9b2c4fd01d37883d12
+  source: '@charkafahim'
+  tags:
+    - Bangladesh
+    - charkafahim
+    - charka
+    - Bangla
+    - Bangladeshi
+    - Care
+    - Care pack
+  original: true
+
 52147b97033ed41f2b49bb4d04e7d2df:
   key: 4a3b244bac56efa810be22390ce39d2c299d20a79d21adbae30b4c975ecd3fe9
   source: 'https://twitter.com/Ieaguedj/status/1379424942656212995'
@@ -31,6 +74,62 @@
     - pastry
     - sugar
   original: true
+
+40cf88f8c68a3111e08e4f2a23524607:
+  key: 804d66867c7c1c0c72f0a7b5cc1c514f9cd9245e5d8b52f9f84a89656074dffd
+  source: bd__universe
+  tags:
+    - fun
+    - animal
+    - cute
+    - cat
+    - monkey
+    - cantonese
+    - hk
+    - Hong Kong
+  original: true
+
+42b07cd38d5c4a5d07eacaf7072295ed:
+  key: 1af77add236ab0d0cf8062cf5bd31700053bd75d5f8dfb0b189790087eae3cd2
+  source: 'https://github.com/tim-hub'
+  tags:
+    - amandie
+    - timmie
+    - romantic
+    - chinese
+  original: true
+
+5cfe7b9481d17877c203795afd0beb8f:
+  key: 107293fe862bffb2eb1856b6d1da7229193ed6de6ca6f9a3b7c1b64bc2416fab
+  source: Telegram
+  tags:
+    - german
+
+dd291cfbdff54804541d14d89401ce1a:
+  key: 9fd700db4b33c896999ffee07cc79081c2d75eb26b65f567432efbb6889724ca
+  tags:
+    - tomboy
+    - gf
+    - anime
+    - muscular
+    - muscle
+    - sport
+    - musclegirl
+    - monstergirl
+    - memes
+  nsfw: true
+
+23022c75b9338590aeeed548d43c31e8:
+  key: b49d264e004b84c9296599ac1f3bef2b315543b8b70f40f17f55d9b9f0c72657
+  source: Trainer Nathan
+  tags:
+    - puppy
+    - pupplay
+    - puppyhood
+    - pup hood
+    - petplay
+  original: true
+  nsfw: true
 
 8d7c881d84fe6e69836369919e729fb2:
   key: 1ce99a259b9d626d01b509e098458fb5db6c81e6752a2a406e590ff51ec71946
