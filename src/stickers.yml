@@ -23,6 +23,33 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+b6de581a432c967515315c4297b59841:
+  key: 10fef4c3af1744d976618235931e53466b934a27c6fceb8b8a376f5a41849050
+  source: ‘Tempo - http://tempo.run’
+  tags:
+    - run
+    - runner
+    - running
+    - tempo
+    - workout
+    - training
+    - distance
+    - jog
+    - walk
+    - exercise
+    - track
+    - app
+    - fit
+    - fitness
+    - finish
+    - race
+    - heart
+    - marathon
+    - 5k
+    - 10k
+    - log
+    - indie
+
 3273093448c29f711eda842657b0e71e:
   key: 8330cbaeaae44e587ea2a0fa4577240bd2aa423f6f600784e6e5a51cdca046aa
   source: Yara
