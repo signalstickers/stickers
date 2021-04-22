@@ -21,7 +21,11 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+763c94aa04733dea707c9a745e4ffa8f:
+  key: a9cc2261976f557163bf7e002d1cad76f61e659b347327e47b2eaa660ca8bf59
+  source: 'https://t.me/addstickers/blessedEmojis'
+-------
 
 3273093448c29f711eda842657b0e71e:
   key: 8330cbaeaae44e587ea2a0fa4577240bd2aa423f6f600784e6e5a51cdca046aa
