@@ -22,6 +22,40 @@
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+88e5a0a83174f9294f9f014cacd304d8:
+  key: ac202126d33131427dac563d72b11c53a5b33eda4da986511ec8b91bbb115587
+  source: 'https://store.line.me/stickershop/product/4877/en'
+  tags:
+    - Attack on Titan
+    - Shingeki no Kyojin
+    - anime
+    - Line
+  animated: true
+9d3a3d97f4d416eb2eb9c46ffac0a27d:
+  key: 3b9c1bece1cb39a3ac8857404b30038b34d7d7190041b4e85b91a1bf3c874ba8
+  source: 'https://store.line.me/stickershop/product/3583/en'
+  tags:
+    - Garfield
+    - Cat
+    - Line
+  animated: true
+c296a48c322052a94e6d80af3ab90ad6:
+  key: 9b9c4d7073bd6b50fe2034c9dddefae2519dac14968ad176c6d51eb2f3ee5613
+  source: 'https://store.line.me/stickershop/product/16440/en'
+  tags:
+    - Garfield
+    - 'Garfield''s Winter Wonderland'
+    - Cat
+    - Line
+  animated: true
+614a74effb015241a32271c278845029:
+  key: dda18d10d2adc56af61f531bd112c1a590770b3cf4376276097afc90486f039e
+  source: 'https://store.line.me/stickershop/product/1322563/en'
+  tags:
+    - Mystic Messenger
+    - Visual novel 
+    - Line
+  animated: true
 
 3273093448c29f711eda842657b0e71e:
   key: 8330cbaeaae44e587ea2a0fa4577240bd2aa423f6f600784e6e5a51cdca046aa
