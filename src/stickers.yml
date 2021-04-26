@@ -23,6 +23,18 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+e957bbd93efb13c7f23e376e546f3624:
+  key: 9e056da2df6d0f0da7c152944caff9ac97bf5fc2faefe35704ce1e5c2b5bb7ba
+  source: Deutsche Digitale Bibliothek
+  tags:
+    - beer
+    - german
+    - german beer
+    - reinheitsgebot
+    - cultural heritage
+    - Deutsche Digitale Bibliothek
+  original: true
+
 3273093448c29f711eda842657b0e71e:
   key: 8330cbaeaae44e587ea2a0fa4577240bd2aa423f6f600784e6e5a51cdca046aa
   source: Yara
