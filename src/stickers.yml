@@ -21,7 +21,11 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+92c6040063614b131150892b72a76ff6:
+  key: 42e1d23130900dfc91e0f9643616c9066427ce4532abafe49f5f3ba0a0ff1d83
+  source: 'https://t.me/addstickers/Nasa2m'
+-------
 
 287f2ff906a8dffbc9210edf9db0510e:
   key: 3eaa99f38ab1d954d853615104f2493e2bb54cad0bfbc4456ee44f371f93c07a
