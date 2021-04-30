@@ -21,7 +21,11 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+f5761edbd71a41b16bfb21394cfc24d0:
+  key: 3496bb0faf45b98689a496344dbbde33fd39416fb3729e29e1369148ea0d1a0f
+  source: 'https://t.me/addstickers/mimilord'
+-------
 
 287f2ff906a8dffbc9210edf9db0510e:
   key: 3eaa99f38ab1d954d853615104f2493e2bb54cad0bfbc4456ee44f371f93c07a
