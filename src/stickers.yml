@@ -23,6 +23,25 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+6a2999552e767803de7d96319ff51a5d:
+  key: 4c92ff931facfd51d1fdbd63f7ab256fdd60dfb0889d7a882a177736068d604f
+  source: 'http://openess.dev'
+  tags:
+    - opensource
+    - emojis
+    - developers
+    - devs
+    - oss
+    - emoji
+    - database on fire
+    - bugs
+    - busy coder
+    - binary data 101010
+    - online
+    - offline
+    - database
+  original: true
+
 287f2ff906a8dffbc9210edf9db0510e:
   key: 3eaa99f38ab1d954d853615104f2493e2bb54cad0bfbc4456ee44f371f93c07a
   source: ivyismyname
