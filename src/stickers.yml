@@ -21,7 +21,11 @@
 # commit and start a pull request" at the bottom of the screen. Finally, click
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
-# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+# ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ ----------
+a80f1ed43c67b2afc9b05ce538bfaa93:
+  key: d4e88c924531a59107ae08a23df9d749888282110f8d6832850392f8e069558a
+  source: 'https://t.me/addstickers/wilhelmiumII'
+-------
 
 287f2ff906a8dffbc9210edf9db0510e:
   key: 3eaa99f38ab1d954d853615104f2493e2bb54cad0bfbc4456ee44f371f93c07a
