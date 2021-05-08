@@ -114,6 +114,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://tim.bai.uno"><img src="https://avatars.githubusercontent.com/u/2884320?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Tim</b></sub></a><br /><a href="#content-tim-hub" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/MMMrowka"><img src="https://avatars.githubusercontent.com/u/46072461?v=4?s=42" width="42px;" alt=""/><br /><sub><b>MMMrowka</b></sub></a><br /><a href="#content-MMMrowka" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/InterstellarPotato20"><img src="https://avatars.githubusercontent.com/u/83708000?v=4?s=42" width="42px;" alt=""/><br /><sub><b>InterstellarPotato20</b></sub></a><br /><a href="#content-InterstellarPotato20" title="Content">🖋</a></td>
   </tr>
 </table>
 
