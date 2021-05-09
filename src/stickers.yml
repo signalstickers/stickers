@@ -23,6 +23,15 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+5d6d3454c34c7181ac7eb09231d9d9ea:
+  key: 96652b3bb38308d99727695da5af71d8a96e8cadab04620b1623980ff71dc1d4
+  source: >-
+    BJ Alex is a Manhwa created by Mingwa available on
+    https://www.lezhin.com/en/comic/bjalex_en
+  tags:
+    - manhwa
+  nsfw: true
+
 e957bbd93efb13c7f23e376e546f3624:
   key: 9e056da2df6d0f0da7c152944caff9ac97bf5fc2faefe35704ce1e5c2b5bb7ba
   source: Deutsche Digitale Bibliothek
