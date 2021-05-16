@@ -23,6 +23,17 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+d8ba04ae91f4bb6ccd630fffe9504045:
+  key: 7890e1d902f369acf3268f098e232f9b9643f2228b175c479fae52e2f74b2f70
+  source: '@meela.sheep'
+  tags:
+    - meelasheep
+    - animated
+    - sheep
+    - cute
+  original: true
+  animated: true
+
 925bd9110254a48353dc28c83572b1e4:
   key: c557e39cf4c8e1e9e613bfd32afaa2eb6450ef6420652cf21d67547bf6862575
   source: 'https://store.line.me/stickershop/product/19984'
