@@ -23,6 +23,14 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+b67c4693beeb206d90a6bcdbc6a8299f:
+  key: d360c43d25d912f04845b0a77111b99be14b18f666cd844258af49346f23915a
+  tags:
+    - 'drachenlord'
+
+  source: 'https://t.me/addstickers/Dreche'
+  nsfw: true
+
 925bd9110254a48353dc28c83572b1e4:
   key: c557e39cf4c8e1e9e613bfd32afaa2eb6450ef6420652cf21d67547bf6862575
   source: 'https://store.line.me/stickershop/product/19984'
