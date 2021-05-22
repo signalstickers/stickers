@@ -23,6 +23,18 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+15e019931117e017923dec53df462589:
+  key: 6c6d783cbc1278ef3c6f40b132db3ae5054dd9cb023ea86f102a10759bdb151a
+  source: 'https://thiscatdoesnotexist.com/ and https://thesecatsdonotexist.com/'
+  tags:
+    - cat
+    - cats
+    - reaction
+    - expressions
+    - katzen
+    - katze
+  original: true
+
 925bd9110254a48353dc28c83572b1e4:
   key: c557e39cf4c8e1e9e613bfd32afaa2eb6450ef6420652cf21d67547bf6862575
   source: 'https://store.line.me/stickershop/product/19984'
