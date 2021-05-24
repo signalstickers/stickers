@@ -23,6 +23,11 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+a67c9cf1b855136d0f59de465b1c16da:
+  key: 8be9340128327817cdd90b24963a598d5c3313e5ec2022e31c03aa192747a188
+  source: 'https://t.me/addstickers/mamamerculo'
+  nsfw: true
+
 925bd9110254a48353dc28c83572b1e4:
   key: c557e39cf4c8e1e9e613bfd32afaa2eb6450ef6420652cf21d67547bf6862575
   source: 'https://store.line.me/stickershop/product/19984'
