@@ -23,6 +23,13 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+ffe637bcb3551b119021a232ffcb7df4:
+  key: dbf515355464382177c30103a472745850ed22563256aa39909b7935c1072674
+  tags:
+    - 'Twitch Emote'
+
+  source: 'https://t.me/addstickers/TwitchN'
+
 925bd9110254a48353dc28c83572b1e4:
   key: c557e39cf4c8e1e9e613bfd32afaa2eb6450ef6420652cf21d67547bf6862575
   source: 'https://store.line.me/stickershop/product/19984'
