@@ -23,6 +23,14 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+a566d19d6f66a58e06b65f6750bfd785:
+  key: 922abc3e1796df6d61b4edf77fda596672e20c03af351a18a49595ca69eb3d7f
+  source: 'https://www.hike.in/'
+  tags:
+    - bff
+    - india
+    - hindi
+
 925bd9110254a48353dc28c83572b1e4:
   key: c557e39cf4c8e1e9e613bfd32afaa2eb6450ef6420652cf21d67547bf6862575
   source: 'https://store.line.me/stickershop/product/19984'
