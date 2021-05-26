@@ -23,6 +23,15 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+50e1c1d908b7eb2ca1f269e2eff880f3:
+  key: c19ef92bc5f18cca814ccef38c3ec93f7902b957a1be17456dc59502ce272fb5
+  source: 'https://www.hike.in/'
+  tags:
+    - love
+    - india
+    - hindi
+  nsfw: true
+
 925bd9110254a48353dc28c83572b1e4:
   key: c557e39cf4c8e1e9e613bfd32afaa2eb6450ef6420652cf21d67547bf6862575
   source: 'https://store.line.me/stickershop/product/19984'
