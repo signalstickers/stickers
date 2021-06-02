@@ -23,7 +23,13 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
-
+3ec363a69ba5d36f3c9139d046087d43:
+  key: 9faac77a17e1e74c52a014b9f9ad8a8e60d346b15e8b2e44dd9761f9da3ef0a5
+  source: 'https://giphy.com/happydogstickers'
+  tags:
+    - chicken
+    - poke
+  animated: true
 
 5ff4ca707d747c73e06c1c8272da157e:
   key: 18c151b698e8f249e8c591e504485f174a8756ecf55192b913bc4c56676c4974
