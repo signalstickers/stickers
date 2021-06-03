@@ -321,6 +321,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "benjaminwolkchen",
+      "name": "Benjamin Hartmann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42138517?v=4",
+      "profile": "https://awesomebible.de",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 5,
