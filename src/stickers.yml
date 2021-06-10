@@ -111,6 +111,7 @@ c0d81713418f25ef516c2cd438f06c45:
   tags:
     - 'Goose Untitled Goose Game'
   source: 'https://t.me/addstickers/UntitledGooseSt'
+  editorschoice: true
 
 1911c89283b19130ffe4bd6782411cc2:
   key: 724419f4df8f13ef529163a98bdd5a4bddc1b5b7911ce7fd734389571fb6ece0
@@ -536,6 +537,7 @@ e957bbd93efb13c7f23e376e546f3624:
     - cultural heritage
     - Deutsche Digitale Bibliothek
   original: true
+  editorschoice: true
 
 b92dcdc97a3c19f6d864e11c6d4550f2:
   key: 3ce70c411d20f3dcb8fef0eb9c44346ac083c2093f47ff62c32ee7757e9e0efc
@@ -1354,6 +1356,7 @@ d009cb4285766e056474fb559608503c:
   key: fdfa8bce244f036c9c85d6a9c2519c70b7c06a0d719b982983dd87d01a589e56
   tags:
     - Danny Devito
+  editorschoice: true
 
 8a68e5e5a8ae925fa37d7f7906341f8e:
   key: c9b87317ecd65b595eb2405950ae27f60d815c24fb3b50c951207a1a67be6c20
@@ -1463,6 +1466,7 @@ d3dc228a5a2b2312bf5cf701be254f5c:
     - edo
     - mkg hamburg
   original: true
+  editorschoice: true
 
 baad02adca8f4d611121bce24e83bbb0:
   key: b73fb7172e1414746e6a8be44cfd5ac8642ca940395d60514a4f85c4db5512bb
@@ -1663,6 +1667,7 @@ ffb16282fa646f30ee415d246e5dc87e:
   tags:
     - Character
   original: true
+  editorschoice: true
 
 e02a7ca1b0a22e7fcb288faffa77b961:
   key: feeaf7f3ba5cb6bac0d2587346a2f81adfe9cf98563f5b68bb7ecee32769df97
@@ -1859,6 +1864,7 @@ a6ac12f0bf9e7a1c150e5de46c87d3f8:
   key: e834b33986992e5ade335e441659dba7de37dbe9aa473ddff768f4427166ce4a
   source: HKUMed
   original: true
+  editorschoice: true
 
 a69b5beffd08a10a74694681632e4cda:
   key: 79dbca635f2ddcc2788c8d8bbbd44b4fd614e5df18fde69db2413a0ceeb9309f
@@ -2599,6 +2605,7 @@ c824918199c06e08b14409f653d873bd:
     - Facebook Messenger
     - Cute
     - Blue
+  editorschoice: true
 
 902e50b8ddea04b155d12d9a49af58a1:
   key: 54656c07441d983429cc7c8fb69d2430cef250d7936e81bd1ff1e64f0f43c457
@@ -2943,6 +2950,7 @@ a4075a1444257cf51ece82d94e194218:
     - sprites
     - 8 bit
   animated: true
+  editorschoice: true
 
 55244c7678fe52e9e40235d6725d2a4d:
   key: 15f4e82d803edc05d45891cb3e5f68b47bf359909cb885c9f8deff828f71dc89
@@ -2959,6 +2967,7 @@ a4075a1444257cf51ece82d94e194218:
     - r74n
     - slweeb
   original: true
+  editorschoice: true
 
 3539311f61c9d1cb308e870ebc9a3ae5:
   key: 5cd68fcbf54593823a10b20e785ea360daf8e4fc335bc9eedb66a362bffb0bd7
@@ -3560,6 +3569,7 @@ ad4113f81ffc2952a4488c0f1ff6c034:
     - sega
     - video games
   animated: true
+  editorschoice: true
 
 a62c5d965ad7df8034dabf98790cabac:
   key: 71034ad368f474d603b6a7d0253037f17b6a1b0bcc77b259351665545cb16198
@@ -12630,6 +12640,7 @@ d834c9759667cbacdf1f399a5d23eca7:
     - animal
     - animated
   animated: true
+  editorschoice: true
 
 40a65ffa1b0b3bdd6be51cee766f9d41:
   key: 55297ece390ec8bdcef8c04faaddbfba36033508ab65f11037b2e3bfbeb0552f
@@ -12901,6 +12912,7 @@ b39c17d172aa7cf440d110d431b368e0:
     - Thinking
     - Emoji
     - Telegram
+  editorschoice: true
 
 9c569745bdcde7618efdde029bed6d03:
   key: 417084eb2f718b50542315ab0803b897d01f9501022944d104cff17acaa38419
@@ -14756,6 +14768,7 @@ baf93a1cbaba4e2951559aea66444ee7:
     - meme
     - cute
   animated: true
+  editorschoice: true
 
 d433ed9161d27a955e887f4d12255e2c:
   key: 7e337450b2e5f1f11fd014bf303ced6f1b12884a4263209ca3ac5a82511a67e6
@@ -17527,6 +17540,7 @@ fc4bb84701eb13f4cd577739ab9e8063:
     - Facebook
     - Hatch
     - pet
+  editorschoice: true
 
 6bfa006d7c5c6478c5f88e0080b2195d:
   key: 69f6ddd1db5057a9089f6aaf22b1aff58948915a1275da7fd6f76df726d8b77c
@@ -21070,6 +21084,7 @@ ea877f12157db2c89a85f833d5334c6f:
     - pics
     - Ketnipz
     - telegram
+  editorschoice: true
 
 57788861a7ea13d8eb726cb8b3c6be0c:
   key: a0f664101ddc161e9e19be9b856771c1b4fc48801d72f34096e724c8b3b0775c
@@ -34871,6 +34886,7 @@ ce83961e7bffdb0cfbc9b0c614252cdf:
     - meta
     - privacy
   original: true
+  editorschoice: true
 
 609b5b83f2192d1bf07ac87e9efb9d2e:
   key: 48c04ee573143fa059d32a2550195672d80081668d4d6c0b3311588f119f2d34

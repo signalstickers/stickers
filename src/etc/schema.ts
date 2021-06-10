@@ -41,6 +41,10 @@ export default {
         animated: {
           type: 'boolean',
           errorMessage: '"animated" should be a boolean.'
+        },
+        editorschoice: {
+          type: 'boolean',
+          errorMessage: '"editorschoice" should be a boolean.'
         }
       },
       // The only required field is 'key' and any additional fields not defined
