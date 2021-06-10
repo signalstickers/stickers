@@ -4398,6 +4398,7 @@ e90d8d08837e8ef4362f3aae706f48b5:
   source: 'http://dull.fr'
   original: true
   animated: true
+  editorschoice: true
 
 840cfd5ab5d7657dbc8d18dd1eaae377:
   key: a0af9ff0228512543bcab99f45cc129d7d0c319b10da809da8cdf1a850d21651
@@ -4937,6 +4938,7 @@ b4f99ab15bec8c3cee5a76472057d5d0:
 fca0706491d12d7e18c6856baccf3242:
   key: 5233588420af5071bf3352daedd13ecf16701b663cc7a22583184a270227342e
   source: https://t.me/addstickers/blobbyyyy
+  editorschoice: true
 
 4b821c069eafbb86e0b416b82d3c33c4:
   key: 07f9259e6f70dcb6a54f480ef8a1e205e239f90549b64f9eef8a6df089648ee5
@@ -7130,6 +7132,7 @@ a579d39aceed43d775e795f4d30511dc:
     - Animals
   original: true
   animated: true
+  editorschoice: true
 
 73cadde3a4f99b9e77ee2624e116d029:
   key: 247c3066bade3756c2b35961e877e15a1e368ce6dfa86e9da7c3177e06ccec09
@@ -12330,6 +12333,7 @@ a55f56b74731a4f8fd31ddb69a716689:
   tags:
     - reaction
   original: true
+  editorschoice: true
 
 7af85c23c08ef9721d56dddbbadcfbbe:
   key: 7c5d6ce79ce01a7f36a4437757bacb078aba980643b4e6bb2a225119518e3650
@@ -12654,6 +12658,7 @@ d834c9759667cbacdf1f399a5d23eca7:
     - animal
     - animated
   animated: true
+  editorschoice: true
 
 ace697c0b4ba665c19ace3699972e83f:
   key: bf81a32788bbadb8dca92da3a8102f808552ce18ba16fe9a16e377a10aac2f71
@@ -14675,6 +14680,7 @@ ebaf3cefaa9c602c78ef122930a3eaab:
     - animated
     - gif
   animated: true
+  editorschoice: true
 
 09cf7581ffe8e34c3992018e50fcabe3:
   key: 8138fdc1c0bbb35d4b34f4243c39cfabeda0bf83d905e63dac81de9bad38978b
@@ -14788,6 +14794,7 @@ d433ed9161d27a955e887f4d12255e2c:
     - Paul Teutul Jr
     - Paul Teutul Sr
   original: true
+  editorschoice: true
 
 dcaea672ee5be0bc7662314edca5de1b:
   key: 9926dd3f0e9a7ab4cc18af97cc0dbf77d9142d3a778a155d3d2dc3b3032355d1
@@ -16709,6 +16716,7 @@ edc93fac0afe79a6689532e63b78ad43:
   tags:
     - cute
   original: true
+  editorschoice: true
 
 e33ffda9d9a946d815ae63e6fe15df19:
   key: 28a8c565019b6aab156e805bbaff21d340b06f7600d8979b8bbdfa9d29315627
@@ -16765,6 +16773,7 @@ beaf36a4cb8aba728fd79c360544f1b3:
   key: 612da93b918d99bde232a43435fe33a632c954442eea222fa0747dc717edd0ba
   source: >-
     https://community.signalusers.org/t/sticker-pack-collection-thread-makeprivacystick/10650/259
+  editorschoice: true
 
 4a1881fbc93df3e41c7c007dbbc31daf:
   key: 0762194abd81f8c2a53c7124b93fab6ad5ca0e8ccce1d1928d2e56940bdca780
@@ -16891,6 +16900,7 @@ a084936b99af1f34e0a6b26b01198c50:
   key: 7a6530403168a608b6fba83238d7c25a4f39a28fa30dbb84a81ee2849a734afa
   source: https://twitter.com/writeswrongs/status/1243096866041917441
   original: true
+  editorschoice: true
 
 23cc6d83aab2ac59f7f443beb03506d6:
   key: cf44a9ffd8ebcdcf499dbd6a31f668a3b4cd9d551e507649a7157d50b2890002
