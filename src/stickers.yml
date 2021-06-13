@@ -22,6 +22,17 @@
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+5b197637da6fc0f23f0f4ef99d66fc59:
+  key: 15671d2378f0be52ffbd63edd55e0713e3766fcf5edd4f29fd843545c4bfaf6f
+  source: 'Original Author - Twitter: @nelioyann - inspired by the ThisIsFine meme'
+  tags:
+    - meme
+    - thisisfine
+    - mood
+    - memes
+    - character
+  original: true
+
 
 5c6988e85813b730f919f97ab4197fcc:
   key: 7fcdab99e8c91bc8908043ce2f37e028cdf32396e8afaa5631bbd2d55ebac128
