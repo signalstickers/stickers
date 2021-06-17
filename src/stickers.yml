@@ -22,7 +22,39 @@
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+18d09856f48f5de69871135d45063845:
+  key: ec64fe6942e9b2a7a82dab5c6aa1dacdd29ecd4722004b92e5823a8b95b5e1e7
+  source: 'https://twitter.com/thealanberman/status/1405588956733837313'
+  original: true
+  tags:
+    - cat
+    - kitty
+    - Jiji
+    - cute
+    - Kiki
+    - chibi
+    - Ghibli
+    
+3113a64d70db8114556ea7d9848342ae:
+  key: 0b1f40bb250349f930d751270edc09d23775d306918ba2b5fe7c0a4a23b70eb1
+  source: 'https://hangouts.google.com'
+  tags:
+    - bunny
+    - rabbit
+    - cute
+    - Google
+    - Hangouts
 
+6390bee35ec4c2cebd17721381b691fe:
+  key: a6aab606bb6c033a1710ad3ab3c5b02a99ed1d0688c5c89e38432835773e2234
+  source: 'https://hangouts.google.com'
+  tags:
+    - cat
+    - kitty
+    - cute
+    - Google
+    - Hangouts
+  
 5c6988e85813b730f919f97ab4197fcc:
   key: 7fcdab99e8c91bc8908043ce2f37e028cdf32396e8afaa5631bbd2d55ebac128
   source: 'https://twitter.com/ddbkultur/status/1400470665598312450'
