@@ -22,6 +22,19 @@
 # "Commit changes" to open a Pull Request with your proposed changes.
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
+9d0dacec921bf79a509f15c87f233e22:
+  key: 81c55a34e299365ba8030743369e62192b83d41531c3d2c15d6c92496b55fdca
+  source: Cap.Grolarbear
+  tags:
+    - nsfw
+    - gay
+    - furry
+    - sexy
+    - pup
+    - dog
+    - husky
+    - puppy
+  nsfw: true
 
 5c6988e85813b730f919f97ab4197fcc:
   key: 7fcdab99e8c91bc8908043ce2f37e028cdf32396e8afaa5631bbd2d55ebac128
