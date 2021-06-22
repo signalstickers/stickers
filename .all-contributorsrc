@@ -339,6 +339,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "nelioyann",
+      "name": "Yannick Nana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17406287?v=4",
+      "profile": "https://yannicknana.fr",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 5,

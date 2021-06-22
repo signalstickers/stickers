@@ -121,6 +121,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://awesomebible.de"><img src="https://avatars.githubusercontent.com/u/42138517?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Benjamin Hartmann</b></sub></a><br /><a href="#content-benjaminwolkchen" title="Content">🖋</a></td>
     <td align="center"><a href="https://gummy.ga/"><img src="https://avatars.githubusercontent.com/u/66863579?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Saieesh Bairam</b></sub></a><br /><a href="#content-saieeshb" title="Content">🖋</a></td>
+    <td align="center"><a href="https://yannicknana.fr"><img src="https://avatars.githubusercontent.com/u/17406287?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Yannick Nana</b></sub></a><br /><a href="#content-nelioyann" title="Content">🖋</a></td>
   </tr>
 </table>
 
