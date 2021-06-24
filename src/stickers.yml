@@ -23,6 +23,19 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+d89703d6f218c05be7bfe4028e8cf805:
+  key: 474f19652b6ae0ff7b9235054c3094bd3b68ae215f19b26d520d4ba114601ae1
+  tags:
+    - 'Apple'
+    - 'Apple daily'
+    - 'HK'
+    - '蘋果'
+    - '蘋果日報'
+    - '新聞'
+    - '香港'
+
+  source: 'https://t.me/addstickers/apple_daily'
+
 5c6988e85813b730f919f97ab4197fcc:
   key: 7fcdab99e8c91bc8908043ce2f37e028cdf32396e8afaa5631bbd2d55ebac128
   source: 'https://twitter.com/ddbkultur/status/1400470665598312450'
