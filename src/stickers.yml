@@ -23,6 +23,20 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+491ad7043504254cdbaf900c8aaf19e5:
+  key: 6644b969f86234a89dbd4d82b77a73ed636226d282b2723eb8292bb3ae595147
+  tags:
+    - Star Wars
+    - Wookie
+    - Han Solo
+    - Princess Leia
+    - Death Star
+    - Millennium Falcon
+    - R2D2
+    - C3P0
+    - BB8
+  animated: true
+
 8115614ddec2e08ad7ab9f6f68465bff:
   key: cc4ce422aecae19b376e9e42dbe4afc352af9e1fb1ec908456f57dd9ad80f4f0
   source: 'https://t.me/addstickers/qqdino'
