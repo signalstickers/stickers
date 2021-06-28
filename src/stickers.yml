@@ -23,6 +23,14 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+5ef74946c8e30880aaada7387ac238f5:
+  key: 31706e62f292105aa405357db39ad686045cebfe2cc9d9c4c1639002a92d802b
+  tags:
+    - 'Archlinux '
+    - 'Linux'
+
+  source: 'https://telegram.dog/addstickers/btwiuse'
+
 5c6988e85813b730f919f97ab4197fcc:
   key: 7fcdab99e8c91bc8908043ce2f37e028cdf32396e8afaa5631bbd2d55ebac128
   source: 'https://twitter.com/ddbkultur/status/1400470665598312450'
