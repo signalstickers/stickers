@@ -23,6 +23,15 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+67e126787d2fd9c34d36f25243a91977:
+  key: a3472c6fed46efe330962292b52695f8e320c953c295194ede29bd6c1556478b
+  tags:
+    - 'Girls'
+    - 'Sex'
+
+  source: 'https://telegram.dog/addstickers/FunkYou'
+  nsfw: true
+
 5c6988e85813b730f919f97ab4197fcc:
   key: 7fcdab99e8c91bc8908043ce2f37e028cdf32396e8afaa5631bbd2d55ebac128
   source: 'https://twitter.com/ddbkultur/status/1400470665598312450'
