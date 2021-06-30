@@ -23,6 +23,13 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+5ca2a010b3b7b6ec341c062b1e77265d:
+  key: be3faf2f173672b0e2563e93cbf6096a0ac8437e066f4cf4ba89dc33a9a41971
+  tags:
+    - 'anime'
+
+  source: 'https://telegram.dog/addstickers/PTRS_by'
+
 5c6988e85813b730f919f97ab4197fcc:
   key: 7fcdab99e8c91bc8908043ce2f37e028cdf32396e8afaa5631bbd2d55ebac128
   source: 'https://twitter.com/ddbkultur/status/1400470665598312450'
