@@ -23,6 +23,11 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+277f86a83c1eb4f06ce73c8108f6d05d:
+  key: 122b088b1512ac6d0d608ae388dd4ded3c401f2a2595f04c3e2f1ee5e0f5f289
+  source: 'https://t.me/addstickers/MyHentai'
+  nsfw: true
+
 5c6988e85813b730f919f97ab4197fcc:
   key: 7fcdab99e8c91bc8908043ce2f37e028cdf32396e8afaa5631bbd2d55ebac128
   source: 'https://twitter.com/ddbkultur/status/1400470665598312450'
