@@ -23,6 +23,15 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+bb844f8c4d830fc01c1cd6da87dd3214:
+  key: 6aa2adc9f0dbfcb118702ed960dae5e894f28b10e9bf3ee60c54b9dbff8e9717
+  tags:
+    - 'anime'
+    - 'hug'
+    - 'kiss'
+
+  source: 'https://t.me/addstickers/AnimeXOXO'
+
 5c6988e85813b730f919f97ab4197fcc:
   key: 7fcdab99e8c91bc8908043ce2f37e028cdf32396e8afaa5631bbd2d55ebac128
   source: 'https://twitter.com/ddbkultur/status/1400470665598312450'
