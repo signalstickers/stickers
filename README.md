@@ -1,3 +1,17 @@
+
+<p align="center">
+<h1>⚠️ The contribution process to signalstickers has changed! ⚠️</h1>
+
+We now use a proper back-office to validate and manage `signalstickers.com`.
+
+This repo used to store all the packs. It is now archived, for reference only.
+</p>
+
+
+---------------------
+---------------------
+---------------------
+
 <a href="https://signalstickers.com" id="top">
   <img src="https://user-images.githubusercontent.com/441546/105129971-02e62500-5a9b-11eb-88f5-21065084e25d.png" style="max-width: 100%;" />
 </a>
