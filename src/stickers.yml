@@ -23,6 +23,15 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+cc6ed63101d6d0bdb4ec39ac00f51c60:
+  key: 822b3c75fd16f05e4130ab2b53d8c30e42e025d2bf7c70f30f7928ba4ed9947b
+  tags:
+    - 'Birds'
+    - 'Love'
+    - 'Bird'
+
+  source: 'https://telegram.dog/addstickers/vk_love'
+
 5c6988e85813b730f919f97ab4197fcc:
   key: 7fcdab99e8c91bc8908043ce2f37e028cdf32396e8afaa5631bbd2d55ebac128
   source: 'https://twitter.com/ddbkultur/status/1400470665598312450'
